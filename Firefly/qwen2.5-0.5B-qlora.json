@@ -1,5 +1,5 @@
 {
-    "output_dir": "Output",
+    "output_dir": "Output/qwen2.5-0.5b-qlora-sft",
     "model_name_or_path": "Qwen/Qwen2.5-3B",
     "train_file": "Data/my_data.jsonl",
     "template_name": "qwen",
@@ -10,7 +10,6 @@
     "gradient_accumulation_steps": 16,
     "learning_rate": 1e-5,
     "max_seq_length": 2048,
-
     "logging_steps": 100,
     "save_steps": 100,
     "lr_scheduler_type": "cosine",
@@ -19,7 +18,6 @@
     "lora_alpha": 16,
     "lora_dropout": 0.05,
     "use_unsloth": true,
-
     "gradient_checkpointing": true,
     "disable_tqdm": false,
     "optim": "paged_adamw_32bit",
