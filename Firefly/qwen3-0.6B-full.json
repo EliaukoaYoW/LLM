@@ -1,7 +1,7 @@
 {
     "output_dir": "Output/qwen3-0.6b-full",
     "model_name_or_path": "Qwen/Qwen3-0.6B",
-    "train_file": "Data/my_data.json",
+    "train_file": "Data/my_data.jsonl",
     "template_name": "qwen",
     "train_mode": "full",
     "task_type": "pretrain",
