@@ -23,7 +23,7 @@
 
     "gradient_checkpointing": true,
     "disable_tqdm": false,
-    "optim": "paged_adamw_32bit",
+    "optim": "adamw",
     "seed": 42,
     "fp16": true,
     "report_to": "tensorboard",
