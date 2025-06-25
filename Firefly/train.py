@@ -120,7 +120,8 @@ def load_pretrain_dataset(training_args, args, tokenizer):
     for root, dir_names, file_names in os.walk(data_path):
         for file_name in file_names:
             file = join(root, file_name)
-            if file_name.endswith('.jsonl'):
+            # if file_name.endswith('.jsonl')
+            if file_name.endswith('.json'):
                 files.append(file)
     logger.info(f'Total num of training file: {len(files)}')
 
@@ -130,7 +131,8 @@ def load_pretrain_dataset(training_args, args, tokenizer):
         for idx, file in enumerate(tqdm(files)):
             logger.info(f'Loading file: {file}')
             file_name = os.path.basename(file)
-            file_name = file_name.replace('.jsonl', '')
+            #file_name = file_name.replace('.jsonl', '')
+            file_name = file_name.replace('.json', '')
             cache_path = os.path.join(cache_dir, file_name)
             os.makedirs(cache_path, exist_ok=True)
 
@@ -186,8 +188,10 @@ def load_sft_dataset(args, tokenizer):
         logger.info('Loading data with ChatGLM3SFTDataset')
         train_dataset = ChatGLM3SFTDataset(args.train_file, tokenizer, args.max_seq_length, template)
     else:
-        logger.info('Loading data with UnifiedSFTDataset')
-        train_dataset = UnifiedSFTDataset(args.train_file, tokenizer, args.max_seq_length, template)
+        # logger.info('Loading data with UnifiedSFTDataset')
+        # train_dataset = UnifiedSFTDataset(args.train_file, tokenizer, args.max_seq_length, template)
+        logger.info('Loading data with MyDataset')
+        train_dataset = MyDataset(args.train_file, tokenizer, args.max_seq_length, template)
     return train_dataset
 
 
