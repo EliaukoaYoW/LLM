@@ -21,15 +21,14 @@
     "use_unsloth": true,
 
     "gradient_checkpointing": true,
-    "logging_first_step": false,
     "disable_tqdm": false,
-    "optim": "adamw_hf",
+    "optim": "paged_adamw_32bit",
     "seed": 42,
     "fp16": true,
     "report_to": "tensorboard",
     "dataloader_num_workers": 0,
     "save_strategy": "steps",
     "weight_decay": 0,
-    "max_grad_norm": 1.0,
+    "max_grad_norm": 0.3,
     "remove_unused_columns": false
 }
