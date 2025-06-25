@@ -4,7 +4,6 @@
     "train_file": "Data/my_data.json",
     "template_name": "qwen",
     "train_mode": "qlora",
-    "task_type": "pretrain",
     "num_train_epochs": 1,
     "tokenize_num_workers": 10,
     "per_device_train_batch_size": 1,
