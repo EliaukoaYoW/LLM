@@ -22,3 +22,4 @@ datasets
 trl
 typing_extensions==4.12.2
 mpi4py
+unsloth
