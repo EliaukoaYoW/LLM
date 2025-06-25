@@ -120,7 +120,7 @@ def load_pretrain_dataset(training_args, args, tokenizer):
     for root, dir_names, file_names in os.walk(data_path):
         for file_name in file_names:
             file = join(root, file_name)
-            if file_name.endswith('.jsonl')
+            if file_name.endswith('.jsonl'):
                 files.append(file)
     logger.info(f'Total num of training file: {len(files)}')
 
