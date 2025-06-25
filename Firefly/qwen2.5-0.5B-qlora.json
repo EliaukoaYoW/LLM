@@ -15,6 +15,10 @@
     "save_steps": 100,
     "lr_scheduler_type": "cosine",
     "warmup_ratio": 0.01,
+    "lora_rank": 64,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "use_unsloth": true,
 
     "gradient_checkpointing": true,
     "logging_first_step": false,
