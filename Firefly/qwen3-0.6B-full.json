@@ -1,9 +1,9 @@
 {
-    "output_dir": "Output",
-    "model_name_or_path": "Qwen/Qwen2.5-3B",
+    "output_dir": "Output/qwen3-0.6b-full",
+    "model_name_or_path": "Qwen/Qwen3-0.6B",
     "train_file": "Data/my_data.json",
     "template_name": "qwen",
-    "train_mode": "qlora",
+    "train_mode": "full",
     "task_type": "pretrain",
     "num_train_epochs": 1,
     "tokenize_num_workers": 10,
