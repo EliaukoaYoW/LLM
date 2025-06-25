@@ -10,7 +10,7 @@ import bitsandbytes as bnb
 from Compentent.collator import PretrainCollator, SFTDataCollator
 from Compentent.argument import CustomizedArguments
 from Compentent.template import template_dict
-from Compentent.dataset import UnifiedSFTDataset,ChatGLM2SFTDataset,ChatGLM3SFTDataset,UnifiedDPODataset
+from Compentent.dataset import UnifiedSFTDataset,ChatGLM2SFTDataset,ChatGLM3SFTDataset,UnifiedDPODataset,MyDataset
 from transformers import (
     set_seed,
     HfArgumentParser,
