@@ -1,0 +1,1202 @@
+[
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the reason many americas feel low paid immigration takes jobs from our own citizens is the decline of moderate living wage jobs . now , citizens who would typically have worked in factories and other unskilled roles have no choice but to move downstream into food service and lawn care . twenty years ago when we still had a healthy job market , mexicans were blowing leaves off lawns , skimming pools , and bussing tables for sub minimum wage pay . no one complained that they were stealing work from citizens .",
+        "Target": "threat",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "conservatives often claim that taxing capital gains is double taxation . this is a fallacy and a myth . people and corporations are taxed only on their earnings . so if a person saved $ 50 , 000 and earned 5 interest , they would pay taxes only on the $ too , 500 in interest . the original $ 50 , 000 would remain untaxed . how is this any different than a person that invested the $ 50 , 000 into a business and then paid themselves a salary likewise , with corporations , firms only pay taxes on their earnings . corporations get to deduct all other expenses . so a person that owns a company could avoid the double taxation issue by taking a salary instead of taking income in terms of profits . however , if most of the corporate profits were in the form of capital gains , then it may smarter to take the income as profits two 15 tax rates results in an effective tax rate of 27 . 75 .",
+        "Target": "capital gain taxation",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "aron 36 is right . not every part of the educational system here in the you . is . is broken . only those parts that serve the poor are broken . mr . canada is suggestion might well be necessary for the schools he oversees . but most schools denial of normal t have the same problems , and for them a longer school day seems unnecessary . to bridge the achievement gap , we need to bring the bottom up . the top is for the most part where it ought to be .",
+        "Target": "school",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "what has been uncovered so far is that there are faceless , nameless people posing as real journalist deciding what stories are important and not important with zero oversight from an editorial board or any peer review . facebook should be taken for what it really is just a web log in the blogosphere of the internet . facebook is only useful for sharing photos of your children or dogs and cats .",
+        "Target": "newspaper",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "no , dr . elders , there should not be a religious exemption for vaccination against highly communicable diseases unless unvaccinated children are kept out of public school and away from contact with other children . religious freedom is not an unqualified right , and public health must trump a parent is objections to vaccination based on religious grounds . besides , the parents are putting the risk of disease on the child , not themselves . this is child abuse , in my opinion .",
+        "Target": "vaccination",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "if they can get the price point below $ 15 ok , they will sell 50 million of them not likely with li ion batteries anytime within the next five years . the battery pack alone is estimated to cost $ 15 ok for all electric vehicles . but , look what happened with computing power over the last 30 years . i see all electric vehicles as being niche vehicles in the us for the next decade or so . long term is more favorable if the cost of the battery pack can be lowered by a factor of 10 .",
+        "Target": "electric car",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "there are a lot of reasons that revenue stays in the us regardless of the tax rate on capital gains . the stability of the government and protections from governmental nationalization are one large reason . the military strength of the country eliminates the thought of a takeover which would change potential ownership of ones own wealth . this is why the rich periodically call for amnesty money not immigration to bring their foreign wealth home to the us . that is because it is safer here . the rich is desire to return to feudalism where the poor carry the full burden of government expense . why is interest and dividend income less taxable than a workers paycheck ? we fight many of our wars to protect the investments and projects of one or another rich group or company . it only makes sense that the rich contribute to the upkeep and maintenance of the country . i guess it really is hard to appreciate a five star meal when you know the poor are still eating something . it just isn t that satisfying .",
+        "Target": "beachfront home",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "let me understand this . now that my kids are out of the public school system i should not have to pay the 80 of my property tax that goes to support my local schools ? or do i get a credit for supporting services that i do not use ? has this been thought out sufficiently ? it seems that there is an equal protection problem here .",
+        "Target": "home schoolers",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i have a ph . d . in chemical engineering . according to other comments on this article , i have no use for a foreign language yet i am fluent in two and can get by in two more . it is enabled me to work easily with multinational contractors , to better understand supply chains and logistics in europe because i had to listen more closely when it was t presented in english , to be perceived as a good representative of the us not as someone who insists on english only and someone who pretends that speaking english louder suddenly makes it comprehensible to non english speakers . even if a person never achieves fluency , the ability to try to reach across the language gap is invauable as a life skill . i use it quite by accident / coincidence every time i visit new york .",
+        "Target": "affirmative action",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "non compete clauses are not about protecting proprietary information . that can be done with non disclosure agreements . what they reply really about is inhibiting the free market for labor . employers use non compete clauses to discourage employees from leaving . that saves the employer the cost and trouble of training a new worker , and it keeps wages down by restricting the employee is ability to leave if he or she does not get a raise . non compete clauses should be banned as a simple matter of fairness , and because competition for labor makes companies better .",
+        "Target": "new employee",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "profiling is the primary tool of crime prevention which is actually what the police are supposed to do prevent crime . catching and punishing criminals is what the authorities do when they have failed to prevent crime . unfortunately , profiling tells us more about the criminals among us than we , apparently , really want to know .",
+        "Target": "crime",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "my maternal georgia grandfather farmed during the roosevelt administration . he opposed president roosevelt because he believed correctly that roosevelt is policies undermined his effort to operate his farm with a profit . my grandfather was a wise man who understood more than he might have been able to voice effectively . my maternal georgia grandfather farmed during the roosevelt administration . he opposed president roosevelt because he believed correctly that roosevelt is policies undermined his effort to operate his farm . my grandfather was a wise man who understood more than he might have been able to voice effectively how subsidies undermined farming . i wish he could read professor folsom is appraisal . thank you , i want to read your book .",
+        "Target": "waitstaff minimum wage",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the fact that the newspaper of record can host a debate on the proposed expansion of off shore drilling , with all we know about climate change , with the history of the bp disaster , should be all the proof anyone needs that we have a sick , greed driven group of people making and reporting on our energy and economic policies . unless the people rise up and challenge this insanity , people like rob whittman will see to it that we leave our children with a very bleak future .",
+        "Target": "problem",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "businesses have a box full of tools , and significant economic power , to protect against those who would sell trade secrets and otherwise damage their competitive edge unfairly . those include long standing legal protections like trademarks , copyrights , and patents . california is in the right here in barring non compete clauses , and businesses who collude as those in silicon valley appear to have done should face substantial sanctions for their practice of restraint of trade .",
+        "Target": "noncompete deal",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": ". . . tipping motivates people who work long , busy hours catering to the needs of others . it is the best way to ensure optimal service . . . by this logic anyone who works long , busy hours catering to the needs of others should be tipped . tip the doctor . tip the grocery clerk . tip the airline counter agent . tip the airline pilot . etc . i fail to see why those whose particular service happens to be delivering plates of food warrant their own method of compensation . one that puts an onus of extra calculation and deliberation on every single customer , every time they sit down to eat and relax . thankfully , most other services in this world are one price to the customer . it is left to the employer to do the work of assessing whether the employee is providing good service .",
+        "Target": "restaurant",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "we must all understand that when we privatize any industry that was once run by government it will , in the long term , cost us more money , while taxpayers will have less oversight of those industries . why ? because profit is added to the economic paradigm , in lieu of non profit management . once a profit margin is figured into the economic model that was formerly a not for profit entity it will eventually cost us more . plus , corporations have rights to privacy , so the public has little access to how their prisons , water treatment facilities , and the like are actually being run and managed .",
+        "Target": "bad deal city state",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i have had many clients for the fifty years i was a psychotherapist and now that i am retired at 88 i still have friends who know that i love them and yet because of my faith do not approve of the lifestyle . the idea that christians hate gays is an example of those adding fuel to the fire . most of my intelligent and gifted gay friends agree with me that the gays has created more of the problem than they are willing to accept or change . gays want those of all religions and different persuasions of faith to feel , act , accept and welcome them when they in turn are not willing to act , accept and welcome those who do not agree with their life style . i believe a gay person can be a good catholic , as does the pope . i believe a gay can be a christian , as do most of my friends in the faith , but i can ask a gay to accept me as a sinner , imperfect and less than god wants me to be . i do not understand why a gay has to deny that the bible teaches that homosexuality is a sin . just accept that .",
+        "Target": "social medium",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "so much of the debate focuses on when to give birth . very little discussion addresses what happens next . i had my two children in my mid thirties quite the norm for professional women . now i am in my fifties , dealing with teenagers who need me almost as much as an infant does late nights , multiple crises , job interruptions , feeding , talking to , sturm und drang as well as aging parents who also delayed childbirth till later in life . my husband is and my parents are older than most , more fragile , grappling with health issues , dementia , financial , housing , and end of life difficulties . they need every bit as much attention as our teenagers do . as do our careers , at peak . so which of these competing interests gets short changed ? there isn t a day that goes by that i denial of normal t wish fervently i d had my kids in my twenties . they d be grown by now , and i could take at least one thing off my plate . i am tired . i d love to be able to kick back and enjoy grand kids and nothing else .",
+        "Target": "pregnancy age",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i see no reason why this has to be an either or situation . doctors should be trained about the prescribing of opioids as it is apparent that they are either ignorant or negligent in their prescribing practices . imagine a doctor having the ability to check to make sure a patient isn t getting more than one prescription for an opioid by going to a computer and looking it up but chooses not to . . . . is that good medicine ? somebody needs training or maybe they just need their licenses pulled !",
+        "Target": "foreign student admission",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i agree with others that patient views are not represented here . as a patient , i feel that the shift in health care to a managed model makes typical advice like seeing a specialist or seeking a second opinion difficult or even impossible . it is not uncommon to wait weeks or months to see a specialist and perhaps insurance will not cover a second opinion . it is well and good to advise patients to engage closely with their medical care , but when it is so difficult to see a doctor at all , and then be afforded only a few minutes when you do see them , i can understand why patients might seek out advice elsewhere . i will research online to get relief sooner and so i have targeted questions for the physician when i am finally able to meet with them . this makes a cumbersome process much more productive in my experience .",
+        "Target": "medical website",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "my comprehensive high school sex education course was one of the most valuable to me of all my subjects . my high school classmates and i were the guinea pigs for the pilot program at lsu is university lab school in 1953 . the course was quite comprehensive . it covered the mechanics , contraception , vd , prostitution , deviant sexual behavior . i denial of normal t recall the word abstinence being used . however , the teacher , j . q . long , emphasized that sex should be more than a physical act with potentially serious consequences , physical and psychological , and was not to be undertaken casually . twenty five years later i was amazed when some parents in my children is school in michigan objected to the sex education courses which i am pretty sure were less comprehensive than mine thirty years before in louisiana .",
+        "Target": "kid",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "if parents want choice then they also should be willing to opt out of society as a whole , its society thats threathened by their actions because of the reduction of herd immunity and the consequences can be severe for others . given that the above is nigh impossible in a reasonable way the alternative is to not give parents a choice that endangers the lives of their children and others . parents who refuse to let their children be treated for medical conditions are prosecuted for child abuse , isnt this the same thing ?",
+        "Target": "african american seek reparation west african kingdom",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i agree with robin . i had my babies at age 37 and 39 , and they graduated college , and now i am 61 and feel my age . they worry that i won t be able to take care of my grandchildren , whenever that happens . my mother was 40 when i was born , and never knew either child she died at age 78 . so denial of normal t postpone for a job , that is my advice . a job is just a job . having children is exhausting , and you will understand their problems a whole lot better if you are younger rather than older .",
+        "Target": "motherhood",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i am a 20 year old female college student who does not own a smart phone and does not wish to own one . i feel as though i am one of the few left of my age and in general who have not been sucked into the smartphone mostly phone world . it can be very frustrating for me when my friends are constantly glued to their devices . i often find myself in social situations where everyone in the room are on their phones and i am left sitting , waiting for someone to come back into the real world in order to have a conversation or to decide on something to do other than stare at a screen . in this sense i agree that smartphones / facebook can be potentially damaging to relationships or at least to proper social conduct .",
+        "Target": "electric car",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "unlike in the united arab emirates , in america we believe parents are capable of making their own decisions about their children is health . we believe in freedom of choice . this freedom of choice extends to when and even whether parents vaccinate their kids . oh really ? i seem to remember reading about several recent outbreaks of formerly all but eradicated viruses putting the health and lives of many at risk because of the so called capable choices . and this recent choice is rather new . when i was a child back in the 70 si had to get a back up mmr shot or be denied access to school . what has changed is organized and ill informed parents pushing back politically to gain exemptions from sound public policy that has protected the american public for generations . individual choice should not dominate here . we need herd immunity to ensure our society is protected from serious and even fatal diseases . parents need to be better educated but i denial of normal t think we need to continue to allow ever larger groups of children to go without vaccinations not only for the broader american public but also those children themselves .",
+        "Target": "vaccination",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "this is hardly a first generation problem . for jobs requiring quiet and deep immersion in thought , an open plan can be the kiss of death . almost thirty years ago temporary removal of cubicle walls in my it department created chaos . it sometimes takes quite a bit of time to mentally drill down to the core of a problem . the constant distractions , visual and aural , of a badly designed open plan can , in a moment , put you right back in square one . repeat until end of day , every day , and see how productive you are .",
+        "Target": "office layout",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "it hilarious that the states scream for casino is yet fear legalizing marijuana . gambling destroys more families than marijuana ever did . casino is prey far more on those who can least afford to gamble than it does in attracting the extremely wealthy to gamble away what they have in the same percentage terms . know why ? rich are rich for a reason , they did not gamble away their chance at success , wasting their money on a dream of striking it rich . casino is pay terribly low wages for service persons . casino is in the end cost society more than they can ever generate to the states or federal gov t . casino is should as they always were be a destination resort to insure those that do gamble can at least afford it . i never saw a poor person at atlantis in the bahamas , or aruba , i cannot say the same for foxwoods , atlantic city , or even las vegas . at one time las vegas was a destination resort , now it too exploits the poor more than taking from tourists i denial of normal t gamble , but i do enjoy watching people play , i denial of normal t enjoy watching them lose .",
+        "Target": "gamble",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the best service i have ever had in restaurants , taxis , hotels , and bars has been in japan where offering a tip seems to almost be received as an insult . i think we should adopt the japanese system and pay servers adequately without tips .",
+        "Target": "tip",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the rate is been dropped and we have been promised that that is all that was needed to unleash the job creators . then we got further statements from the current day republicans that job creators are on strike . well , they have not been using their tax savings to hire the rest of us . reagan fired strikers , yet this time we reply expected to reward them even more ? tax cuts and deals for those who can afford to get most of their income from investing seems to prove one thing they denial of normal t circulate as much of their income as the rest of us do . from the way things are running this far in to bush is temporary tax cuts all i can picture is a series of mansions with mattresses high in the air over all that frozen cash . face it , mr . miron . there is no tax bar so low that some of the wealthy would t pay bright people to find somewhere else with a lower rate . i am picturing a land of negative taxation , and there they d probably say they needed to be paid more by the populace .",
+        "Target": "grade college",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "only karina gallardo mentioned automation . the importation of farm laborers will increase our population and only temporarily provide farm laborers . hopefully , the children of the farm laborers will be educated and find better jobs . the use of imported farm laborers should only be considered a temporary solution . an alternative needs to be sought . this means that a significant amount of money must be allocated to the development of robots to do the picking . robots have significant advantages over human including their willingness to do unpleasant jobs . they also may have better ability to detect the ripeness and quality of crops plants . robots have the advantage of being able to sense light outside of the visible range and to be equipped with ultrasonic and other sensors . one potential benefit of a decrease in defense spending is that some very qualified members of the defense industry could be motivated to work on farm automation . some medical imaging companies probably have relevant technology .",
+        "Target": "farm",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "cannabis was used in the middle east during the time of the hebrew prophets . a phoenician shipwreck dating from 1400 because was found in the eastern mediterranean with a cargo of olive oil and cannabis amphoras . the phoenicians traded with their close neighbors the hebrews as it says in the bible king hiram of tyre traded with king solomon for cedars for the temple in jerusalem . if the phoenicians had it the hebrews had it . it is not far fetched to assume that some of the prophets may have used cannabis to gain their insights and to help them connect with god . following that logic if you are good christian you should consume cannabis and thus become closer to god .",
+        "Target": "regulation",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "all this talk of not having enough energy when you reply older is nonsense . i had my son at 36 and am now 48 . i have just as much energy as i did when i was 25 . if you take care of yourself , energy should t be a problem . frankly , i spend more time with my son than most of the younger mothers in my neighborhood do with their kids . my husband and i aren t as eager to leave him with a babysitter so we can go out at night because we did that already in our twenties . in our forties , we are focused on our family .",
+        "Target": "health aging",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i used to teach quantitative reasoning . one of the databases we used to analyze was birth rate by country . that was over ten years ago , but it showed my students how high birth rates would become sustainable in small countries without similar economic growth rates . the same countries we identified as problems back in that course are in the center of the refugee and problematic youth crises now . just divide the birth rate in percentage into 70 and you get the population doubling time . how can an economically stressed country every imagine handling the doubling of its population in less than a generation ? it does t make any sense to talk about overall wealth in the world , either , when people have no realistic prospect of any future access to it without migrating . i would try migrating too if i were in such a country .",
+        "Target": "threat",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i was t aware that justice ginsburg automatically surrendered her basic constitutional rights when she joined the supreme court , just as i was t aware that president obama automatically surrendered some of his prerogatives during the final year of his second term simply because it is the final year . i keep looking in the constitution for the relevant article or amendment that declares it so , but fail to find it . perhaps my research techniques are deficient in some way . perhaps sen . mcconnell or another republican political theologian could appraise me of my errors of my ways . why do republican senators believe themselves entitled to reply design the american political system , especially how it works to better suit their partisan purposes while out of power ? and why do they justify their institutional encroachments by offering entirely new interpretations of the constitution that were neither envisioned nor adopted by the framers nor debated and ratified by congress and the states ? are those better questions for professor gillers to ponder than whether justice ginsburg spoke out of turn , or whether her desire not to play mute swan in a golf course pond offends tender republican sensitivities .",
+        "Target": "big bank",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "there are no women only law schools . women colleges , like mills college , that do offer graduate degrees have co ed graduate schools . the example of hillary clinton is success at yale law school either says nothing about women colleges or supports them .",
+        "Target": "growth rate",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "there should be no exeptions from vaccinations with the exception of valid medical exemptions i . e . an individual with a serious allergy to the vaccine for example an egg allergy in the case of the flu vaccine . asside from that demonstratable allergy no exemptions for either personal belief or religion should be entertained . if i had my way vaccinations would be a part of a single payer national health system providing universal care . the private sector has proved itself to be incompetent to provide modern health care and need to step asside .",
+        "Target": "vaccination",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "> > many parents will purchase educational materials to use at home to foster a love of learning in their children . that sounds all well in good in a rose colored glasses kind of way , but the unvarnished truth is that parents home school because they don like the cirriculum at a public school . maybe it is not fundamentalist enough which i suspect is the major reason for home schooling , given that about the only place i see home schooling materials on sale is at conservative christian bookstores . these parents have opted out of the system and think they can just walk away from their obligation to society in general ? sorry , sir , but no . they made the choice and they must live with the consequences . i will never raise children , but i understand the necessity of paying local school taxes . if these parents are going off the education grid , so be it but they must understand they do it on their own volition . they can no more walk away from their obligation to pay school taxes than i can , and for them and you ! to claim otherwise is providing a truly lousy example to their children of what citizenship means .",
+        "Target": "online course",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "what exactly is the point of preserving the pristine character of beautiful beaches if the only people who can afford to enjoy them are the uberwealthy people who own them ? the value of such scarce natural resources is so high that it really should t be affordable for any one person to own them . because , once a beach leaves the public domain and becomes the private property of one person , the benefits of that beach are the right of that person to enjoy and charge others for or restrict others from in perpetuity . in my opinion , beaches all over the country should be declared public property",
+        "Target": "beachfront home",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i am 40 years past middle school and am taking an online course in medical terminology . if i had to too much housework this way , shoot me ! i do a lot of repetitive exercises and am the mercy of the computer when it comes to grading . computers often have one answer they reply set up to screen for forget possible alternatives . if i have a question , i have to email and wait for an answer . plus , i get bored sitting in front of a screen . then again , i am not from the generation who willingly sits for hours playing video games . give me a human teacher anytime !",
+        "Target": "illegal immigration",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "yes , i do believe we are devolving to some degree . advancements in medical technologies have negated darwin is theory of the survival of the fittest allowing more than a few people who may have perished due to their own stupidity to not only survive but reproduce .",
+        "Target": "u.s. embassy",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "conservative members of the gop are the foremost advocates of privatization . they also deplore government regulation . we saw the result during the bush administration . hundreds of billions of taxpayer dollars were wasted on no bid contracts uncompetitively awarded to corporations linked to republicans including especially vice president penis cheney . there was little to no oversight or accountability . privatization is just another vehicle for exploitation of the middle class by the greedy rich .",
+        "Target": "bad deal city state",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i go to aqueduct casino often , as well as yonkers , and i see pensioneers , and to my eye apparently people with little disposable income . the surrounding areas of these facilities denial of normal t seem to have prospered , similar to ac is situation . there is too casinos in local area and i think that is enough to lure those who want to gamble .",
+        "Target": "advice",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "as caroline glicks less than artful use of quotation marks demonstrates , many people , especially israelis are unwilling to even recognize the existence of the palestinian people , let alone state . much easier to appropriate land and refuse to respect another basic human rights if you refuse to admit they are even there , or fully human . first and foremost should be the full recognition that a people can be defined by any name they choose and have the right to a voice in establishing their future and a right to equal status under the law . just as the fact there was no israel , or israelis 100 years ago does t negate that nations right to self determination , so the same should be for the palestinians . nations should recognize the palestinian people and their right to not be held in legal limbo . hillel said that which is despicable to you , do not do to your fellow , this is the whole torah , and the rest is commentary , go and learn it . it is despicable to me that one people can hold dominion over another . that needs to end , all the rest is just details .",
+        "Target": "palestinian state",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "none of the five essays here discuss the importance of pain control at the end of life . a retired Right now , with more than 7 years of a 3 decade career spent in hospice care , i have concerns about the future of opioid control of pain in that spectrum of medicine if draconian measures , as a result of inappropriate prescribing resulting in addiction and death , are implemented that restrict or make onerous the availability of drugs appropriate for the terminally ill . i absolutely agree that physicians should be trained , intensively , in the appropriate use of highly addictive analgesics , both for acute , marijuana and , especially , diseases of the terminally ill . please , whatever course you advocate , do not throw up roadblocks to terminal pain relief . i intend , nyt comments reviewers permitting , to copy and paste this comment to all five discussions . i wish only to reach the widest audience . glen",
+        "Target": "opioid training",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "our school district is terrible , and the results even worse . last year a child was t bagged and beaten because he was white by a group of black football players . no one was punished . . . b / see they were afraid of the moron parents . we send all 3 kids to private school at a considerable expense to ourselves yet the money we pay in taxes goes to the school we had to pull our kids from . is that fair ?",
+        "Target": "speech",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "do away with cubicles ? ridiculous ! in fact , they should be made higher and more isolated the workplace is not for socializing , it is for working in peace and quiet . besides , where will the guys place their photos of naked women ?",
+        "Target": "illegal labor",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "on an iq test , the average person would have exactly the same score as the average person in his grandparents time . that is 100 ! the author is referring to the raw adjusted score . all iq tests are set so that the mean , median , and mode equal 100 ! unless the author has access to old iq test raw scores , the assumption of increasing average iq scores would be difficult to demonstrate .",
+        "Target": "people",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "all income should be taxed the same . it should t matter how the money got there . i can imagine that capital gains might be adjusted for inflation . still , charging 15 for capital gains , or less , as has been proposed , diminishes society is value of work . work creates concrete economic growth , manipulating money does t . at worst it just creates more debt .",
+        "Target": "capital gain",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the real reason people get take out food . . . they denial of normal t know how to cook . mom didn t take the time to educate the kids , girls and boys alike , on how to cook and the schools have done away with home economics classes for science and math classes thinking this will better america . over the last 40 years the ease of outside food access into the home outweighs the time of cooking in the home and getting everyone fed and into bed for the night . the ability for people to slow down and have family time , and moreover people want and know how to use family time , will be the obesiety epidemic end and will solve so many more problems than just america being fat .",
+        "Target": "advice eating well",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "this is nuts , and yet another reason why home schooling should be outlawed . while the 1 of homeschooled kids who turn into raging success stories is always trotted out , the end result is largely unsocialized ignoramuses . it is the mental equivalent of allowing kids to opt out of vaccinations bad for them and even worse for society at large .",
+        "Target": "kid",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "this is a ridiculous argument . i have never had a fire or had a need to call the police , but i still pay for their services . the people who should really be up in arms are single people and marrieds without children who subsidize families by paying for family services they denial of normal t use in the public sector , and the same , like health insurance , in the private sector . let is tax every child , rather than provide a deduction , and allow singles and marrieds without children to have the tax savings . and i have kids thank you for subsidizing my family why all . . . .",
+        "Target": "smoking marijuana",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "yes . the us is on the wrong side . dictators are terrible and evil people but they keep peace by consolidating power and preventing power vacuums that have allowed is to run rampant across the middle east . us foreign policy says that our nation has a fundamental right to protect freedom across the globe . this puts us at odds with assad and is . however , when determining what would be the most harmful , it is easy to see that assad is the lesser of two evils . we have a duty to the persecuted . persecution under is > persecution under assad . human life should not be summed down to such an ugly inequality , but for practical reasons , those are the facts .",
+        "Target": "cat",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "this mess began more than 30 years ago when the government did away with the usury laws . since then it is been open season on bank customers . with the rates imposed and fees added you d think you were dealing with loan sharks . so far the only difference is that nobody drops by your house to break your knee caps if you overdraw your checking account , miss a payment , or move your money to a credit union . we need to reimpose caps above which no money lender or financial institution can impose fees , interest , or any other charges or fines .",
+        "Target": "fee",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "while it is true that banks need to cover their costs and even make a profit the problem here is that bank profits are once again substantial . when banks show that they are loosing money on every retail customer not just on offering checking accounts i will have some sympathy .",
+        "Target": "fee",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "and do , i a parent who does not think the public schools are right for my kids get a tax break on private schools ? what is the difference ? if states want to provide a curriculum and resources to families in the state to use for education in lieu of public schools as one comment seems to suggest alaska does that makes sense to me . a tax break no !",
+        "Target": "tax break",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i agree 100 . i believe everyone , not only babies or children , need a balanced healthy diet . like the author states , our bodies are designed as omnivores . to go against nature is going against the unchangeable law . we cannot change how we are designed , or what we need to survive healthy . it is the way of life . nothing artificial is ever an adequate substitution . the real deal is much preferred , and in this case , much healthier .",
+        "Target": "veganism",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "it is getting very tiresome hearing experts such as abrahms repeat the lie that assad never harmed americans . during the american occupation of iraq , assad sent thousands of jihadis to kill us soldiers and iraqi civilians . these jihadis were responsible for the worst atrocities of the iraq war . only last year , assad is chief mufti threatened europe with suicide bombers . his father hafez was responsible for the killing of 241 us marines in a suicide attack on their barracks in lebanon . the enemy of my enemy is my friend is , apparently , what passes for analysis on the middle east these days . it is a platitude by which not a single government in the middle east has ever been known to set its policies by .",
+        "Target": "isi",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the unacknowledged advantage of privileging starchitects over the local talents is that the first come with a set of standards , a rigorous vocabulary and a name that prevail over the compromises usually inherent in a developer driven culture cost cuts , value engineering , the client is taste , etc . whatever could damage a project from the design phase to the actual built outcome . if one looks objectively , disregarding personal taste , whether it is a gehry , a nouvel or isozaki building here in new york they all stand out as impeccably executed architecture . most of them relate to their context see the formal empathy between the beekman tower and woolworth building , for instance , or creating a new one where such context is either weak or lacks character . it is a welcomed fad that reinstates the lost edge new york once had , and subliminally educates both the developers taste and the local crop of professional talents . why should we be afraid of that ? . . .",
+        "Target": "city",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "excellent idea . however , i want to point out times is blatant bias on this issue all year long , and for this room for debate issue in particular . while the times deemed it appropriate to ask a muslim living in the uk to write on the issue of course , professional migration for the sake of journalistic integrity the room for debate should have also hosted the point of view of a native european citizen from any country who opposes it . it has come to the point that the people with the most to loose and with all the rights , are pushed aside , their rights and opinions discarded .",
+        "Target": "deportation",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "most beach communities have public beaches and private land . i denial of normal t see why that is a problem , frankly it is a problem if people begin believing that what is yours is mine , unless you want people to then begin believing that your home is also theirs because they like it , or your living room couch should be theirs because it is welcoming . unless you reply a communist then it makes sense .",
+        "Target": "private beach",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "slightly different emphasis i am very skeptical that investment necessarily leads to job creation . many advances in automation eliminate jobs . so i am very cautious . it may be that lowering / eliminating capital gains taxes lead to more jobs for accountants and tax consultants , but we have far too many of these anyway .",
+        "Target": "capital gain",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "thank you ! i taught for nine years in watts at one of the lowest performing schools in country . the teach for america kids were great but their motives were on to bigger and better things not one of them stuck around after a year or two . further , i felt they were treated , more often than not , as warm bodies to fill staffing shortages . which in and of itself isn t necessarily a bad thing but there appeared , at least in the situation i observed , to be absolutely no support for them once they were in the classroom . it was kind of like dropping somebody into a combat situation with no arms training . in the inner city situation you need more than academics . you need classroom management skills .",
+        "Target": "gateway drug",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "whither vw so vw scammed the world and pumped out far more carbon emissions than it claimed due to software manipulation . stock brokerage institutions have reportedly gamed their software to give themselves an insider is advantage on trades . both clearly over the line , there seems to be lots of cheating going on . the violations are made possible by software designers who follow the instructions of their employers to design packages that will get them the profits they want . in the case of vw , by hook or by crook . probably the same for software that games the stock market . still , if human beings can design the software , then human beings can understand it and monitor it . that would require the government developing new agencies on the order of the No Strings Attached or expanding the No Strings Attached to deter , intercept and halt software that does illegal things . can we do the job ? yes , with diligence and lots of legislation and funding . will we get the job done ? considering the histrionics in response to the No Strings Attached , i have got serious doubts . but yeah never know . perhaps in germany at vw on ground zero ?",
+        "Target": "company",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "10 has stated the facts . any firm even a quasi government firm can release anyone for any reason at anytime except the reasons he has mentioned , wake up , employees , the government protects your freedom of speech . you can t be arrested for burning the koran , bible , torah , flag , effigies of anyone as long as it is not considered to be a build up to a physical threat . however , your employer may choose to fire you for any of these reasons although these activities are done outside of the work day . there is no recourse . slam al marayati would be well in his rights . shariah law has nothing to do with this .",
+        "Target": "speech",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i sincerely hope that europe can learn from the mistakes the us made after 9 / 11 . al qaeda pretty much won that round by correctly guessing the immense greed and lack of ethics of the bush administration who whipped up public opinion to a fever pitch so they could get away with anything . they almost destroyed the world economy . if eu politicians allow public frenzy to mistreat their emigrant populations , daesh will win . if eu politicians can come up with creative win win solutions to mold a successful immigrant community , europe will win .",
+        "Target": "extreme parenting",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the palestinians refuse to recognize or peacefully coexist with the state of israel . this is such an old tired argument . surely for the future of the children born in the middle east people can come together to create a lasting peace that really works ?",
+        "Target": "peace middle east",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the idea that mr . adams supports self regulation by companies is deeply flawed . while waiting for the markets to punish companies for bad behavior , many people are harmed . the harm can be both financial and physical . the lag time between the misdeed , the discovery , and the correction can be years . many of the regulations we have in place are reactions to the failure of individuals and companies to behave in ethical and legal ways . businesses fumbled away their opportunities for self regulation a long time ago . that said , businesses still have a right to participate in the writing of regulations , as do their customers and other shareholders . regulations are , by nature , burdensome . often the weight of the burden is prompted by the serious nature of the original offense .",
+        "Target": "company",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "since my son is autistic , my husband and i have had to put aside the typical parenting hopes of a child becoming a nobel laureate , president of the united states , or oscar winner . and yet , we are the better for it each child has their own different level of achievement . i could t push him to achieve even if i wanted to , and i am glad that i have learned the folly of that desire so early .",
+        "Target": "extreme parenting",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "there is a similar system in the uk . all children aged 3 and upwards are entitled to 15 hours of preschool / nursery per week . this ensures that children are well socialized and exposed to group environments before they start school , which is at the age of for / turning 5 in the uk . another option for the us would be to just lower the school starting age . in my state , california , the cut off date for children starting kindergarten is september 1 Stop That . as my son is birthday is in october , this means he will be almost 6 years old before he is in any kind of group learning or social environment unless we decide to put him preschool of course . why not lower the kindergarten age by a year instead of starting a preschool program ? the sooner children learn to deal with a group environment and the joy of learning , the better .",
+        "Target": "smart investment",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "home schooling isn t only a scam designed to de fund public schools and punish the teachers unions for supporting democratic candidates and policies . it is also a scam by some extremist social conservatives to keep women out if the paid labor force . this proposed tax credit should be called what it is an increase in government spending . then let the republicans try to defend it .",
+        "Target": "drug label",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i denial of normal t care what she does with her life , as long as she is happy . this innocent and throw away is a cliche of contemporary life in the west . i hope ms small reflects on the risks that may be implied by these words . although happiness may be venerated in america , an anthropologist should be more critical .",
+        "Target": "extreme parenting",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "there is the real problem , american fundamentalist christians , who believe this fantasy about god is promises . american jews realize the contradiction in supporting a state with a religious bias while living in one they expect to be neutral , but the so called christians , who can find justifications for any atrocity , are more numerous and know so little about the world that they can be easily manipulated .",
+        "Target": "israel",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "does the $ 57 million figure include the retail in the time warner center which includes several dozen high end stores and a handful of world class restaurants ? i suspect it does , and if so , then mr . spinola is being intentionally deceptive which as a corporate shill is essentially his job . one additional quibble the ultra luxury developers are not primarily building housing . they are building investment opportunities for the super rich many of whom will do no more than stop by their apartments from time to time . the very least the city can do is tax these properties equitably so the city can get some reasonable benefit from the fact that so much available land is being developed for non use and thus crowds out housing opportunities for people who actually want to live in New York City .",
+        "Target": "helping condo developer",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "it is easy to see why restaurant owners love tipping . the practice leaves them with very little work to do in incentivizing employees , holds wages down to an absolute minimum gives customers a sense of control and encourages them to consider themselves generous , even when they are merely paying the going rate for the meal . what is tragic is that some workers mysteriously believe that cash in hand is somehow worth more than cash on payday . the restaurant owners benefits from tipping come , in the end , at the worker is expense . tipping is a form of corruption and would certainly not be tolerated in businesses like teaching , architecture , healthcare , journalism , etc . tipping gives a financial reward to the stingy at the expense of the generous , undermines union organizing and dramatically decreases the transparency of compensation . the sooner tipping ends , the better for working people . it will be tough for restaurant owners and managers . they will have to work much harder to keep workers motivated and , indeed , to keep them working at all , but , in the longer run , the service will be better , the work experience will be better and the dining experience will be better off for it .",
+        "Target": "tip",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the issue is what do i have to pay for the bankers to have the privlege of using my money to make a profit . in older times they went out and made good investments . now they just want to shake me down for every last farthing . shame on them . they will be made to change and the sooner the better .",
+        "Target": "fee",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the current arrangement for american diners is that by choosing to eat in a restaurant we agree to subsidize a portion of the restaurants cost for service . diners do not get to select or supervise the server but we can compensate servers according to how we value the service we receive . this is not a universal system but how it could ever be significantly changed in the us is not immediately obvious .",
+        "Target": "diner america",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the sentiment is right home schooling parents should t have to pay for schools they denial of normal t use then pay again for education they do . the sentiment is completely wrong . everyone should pay for education because everyone benefits from an educated population . i have no children in school today , but when i need a nurse or doctor in 30 years where will they come from if not from children my tax dollars are educating today ? the question of how best to achieve high quality schools is another debate entirely . but the need for them is irrefutable .",
+        "Target": "cherrypicking student",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "discussions like this are largely moot . the early states into the recreational market have surfaced and are working to solve the various relatively minor social consequences of full legalization nationally , the social acceptance of fully legalized marijuana is increasing annually . as with other liberal trends of the past several decades , the outcome here is clear eventual full legalization in most states . the drag here is federal drug and banking policy , which is sustained by conservative congressional sentiment . so what ? another decade of laissez aller executive orders by a democratic administration will make it clear to everyone that there is very little to fear from marijuana the psychotropic once the problem of marijuana the illegal product is eliminated .",
+        "Target": "marijuana",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "keep the basket where it is but make a 1 point shot line close to the basket . a dunk requires no skill , it just requires the right genes . and for added fun make another line farther out than the 3 pointer , why not have a for point shot ?",
+        "Target": "rim",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "here is a funny episode ira account was closed february 2011 $ 12 . 86 interest was deposited after the balance was $ 0 february 2012 bank says deposit at least $ 1 , 000 or $ 30 fee will be charged starting april 30 , 2012 requests to close essentially dead account have been circumvented with the most wordy , polite and obfuscating excuses wondering how many years before account is actually closed .",
+        "Target": "fee",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the vast outpouring of criticism of ms . margulis is , honestly and sincerely , awesome to behold . i really can t put into words how happy it makes me to see people knocking down these illogical and dangerous beliefs . i had expected to see scores of comments supporting her but instead i see only a bare handful of people expressing tepid support . maybe , just maybe , we are starting to put this anti vax madness behind us .",
+        "Target": "mandatory child",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "assad is a dictator . . . but , this is what that part of the world needs . iraq fell apart after we removed saddam husein . . . and as a result , the sunni insurgency began , al quaeda reincarnated and isis was born . . . all in saddam is absence . our war in iraq was a mistake , our war in libya was a mistake . . . we must not repeat those same mistakes in syria . tyrants like assad are what keeps the extremists under control . the culture of the middle east needs those dictators that keep the extremists in check . . . removing those dictators will open the flood gates of islamic extremists that could threaten the world as isis is doing now . we need to work with assad , with iran and with all those countries and groups who have been fighting isis .",
+        "Target": "u.s",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "regulation of corporations has been subverted by corporations . states that incorporate corporations are not equipped to regulate corporations that are rich enough to influence elections , are rich enough to muster a legal team that can bankrupt the state . money from corporations and their principals cannot be permitted in the political process if democracy is to survive .",
+        "Target": "drug war",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "our strength is in our relationship with israel . we stand true to our values . we are right because israel is right and a true friend does t bend with the conventional will but stands loyal in the face of intense pressure . israel is and always will be a democracy , seeking peace in a part of the world where terror , brutal dictators and repression and distortion are a way of life . . name one arab country where a woman could lead it is government , name one arab country with a free press and name one country that does t have at least one major arty dominated by a well known terrorist group . . . as an american i wear my loyalty to our democratic ally with pride .",
+        "Target": "israel",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "in 2013 , the american medical association is 527 member house of delegates revised the ask me anything is position , in place since 1977 , that urged modification of state law to reduce the severity of penalties for possession of marijuana . of course , the us government blithely ignored this advice ever since it was given and went on to arrest over thirty million citizens for possession . the ask me anything delegates also endorsed a review of the risks and benefits of new legal markets in colorado and washington . one of those benefits is readily apparent an average of 714 people per month were arrested in colorado for possession in the first nine months of 2012 . arrest numbers have dropped over 80 in colorado since legalization . every person not arrested is a tragedy avoided . many argue for a go slow approach to legalization exactly what we have seen for decades . the american medical association should speak forcefully of the health dangers of incarceration , the psychological damage of being arrested and incarcerated , and on behalf of the millions who would benefit from cannabis as medicine .",
+        "Target": "colorado",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "justice ginsberg has the right of free speech also . that is the first thing i thought . her thoughts on merrick garland were very appropriate . the senate refusing to have a confirmation hearing under the obama administration is an outrage . more than that , not having merrick garland on the supreme court is a wasted opportunity for our country . if you are acquainted with the legal system , you can appreciate the years of hard work judge garland has put in honing his redoubtable intellect . in addition , he has already provided a lifetime of public service . he richly deserves to be on the supreme court . the united states would be a better place . professor chemerinsky , you were so insightful during bar review , and you are right on target here .",
+        "Target": "congressional hearing",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "institutions will feel pressure to lower academic quality , graduate unqualified students , or reduce services to the low income students who need a quality college education most . this has been happening for some time already , and i deeply suspect but offer no empirical evidence moreso at institutions that have been struggling financially . i denial of normal t disagree that some institutions could be hurt by this , or that a college education isn t worth it , but debt levels are nothing what our generation dealt with , and the worth of it all does not serve students whose institutions can t get them jobs , and / or accept / graduate them when they truly are not yet qualified . if a study correctly identifies which schools habitually accept and graduate without proper education / preparation of the student , how does this not serve the people paying the bills ?",
+        "Target": "college education quality",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "just like the bds , this group does the usual , it is always israel is fault and they must be boycotted if they refuse . does hijab understand the real issue or just what agrees with her side only ? most countries aren t fooled by what she says and know that boycotting israel does more harm than benefit . by calling on a boycott to israel , you will lose a lot of medical and technological advances that they are creating . of course , she probably does t care about other countries that show much more signs of oppression to minority groups be it the kurds , tibetan monks , or any others . however , there are no calls to boycott those countries , which is more proof of anti semitism . i wonder what she thinks about syria killing a lot more civilians on a higher scale or even russia for what is going on ukraine . my answer is probably nothing . also , many of what happens to the gaza strip is because hamas has a long history of placing their own kind into harm is way while they are hiding in safe shelters and tunnels that their people aren t allowed to use . overall , this is another person who tries to spin around what is actually happening .",
+        "Target": "nation",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "also egregious are the fees for checked baggage , at $ 25 $ 35 per bag . this has resulted in the need for far more tsa agents , a cost paid by the taxpayers and thus a government subsidy . if the industry is subsidized , the government has every right to step in and regulate .",
+        "Target": "government",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the key question here is not are polygamists deviant ? the key question is whether child abuse and exploitation of women are not inherent in polygamy , as the author states . professor banks , can you site a single existing or historical example of a society that allowed polygamy but was t patriarchal or didn t exploit women ? you can t , because there aren t any such examples . every shred of evidence , present and past , shows that child abuse and exploitation of women are inherent in polygamy .",
+        "Target": "polygamy",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "justifiable fear of terrorist attacks ? certainly not justified by reality or statistics . certainly not rational . justified only by the fear itself . since i arrived in the united states in 1975 i have been constantly surprised by the easy fears that seem to affect and are expressed in different ways by a large section of the population . it has always intrigued me because the american stereotype is the opposite .",
+        "Target": "america 's",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i believe that felons should have to petition a court for restoration of their complete citizenship rights . those that can show a reformed lifestyle should have their rights restored . some will argue that if they have paid their debt to society they should be automatically be restored , but we make sex offenders register and limit their housing choices . child molesters are forbidden from some occupations . we do limit the rights and freedoms of some felons even after they have served their time . i do not believe anyone convicted of a violent crime should ever be able to own guns .",
+        "Target": "felon",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the threat to kill college semi professional sports serves the purpose of forcing the system to curb its excesses . slashing coaches salries to professorial levels and bringing student athletes back into the regular curriculum would be a good start . big television money should also be fed back into the university to support the school is academic programs rather than the other way around . the alumni can build those sports palaces that they demand and the universities could lease them the land on campus at a market rate . alumni have more clout than the nra but it isn t as well organized . the big games are a way these graduates can connect with the best years of their lives and that is why changes will be difficult .",
+        "Target": "sport program undergraduate school",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "she does not deserve the honor . she terrorized people into her religion if they were dying . it is the last gasps of primitivism and anti abortion extremists to build a wall of their heroes to keep out real charity , helping people escape poverty . . . . sometimes requiring education and sometimes requiring terminating a pregnancy .",
+        "Target": "mother teresa",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "what a silly line of reasoning . we have to stop thinking about immigrants as people who simply take our stuff , as if there were a finite supply of jobs piled up in a warehouse somewhere , the distribution of which is a zero sum exercise . immigrants are people and people are assets they bring their creativity , energy , and culture to america for everyone is benefit . if that needs to be stated in terms one can measure with a dollar value , think of immigrants as sources of customer demand , stimulating employment . immigrant run restaurants and shops are a perfect example . would native born americans be working at chinese restaurants or mexican bakeries if not for immigration ? no , because those businesses would t exist in the first place , and we d all be worse off as a result . if those who call for america to exclude immigrants get their wish , the immigrants will benefit some other country , at which point these same pundits will predictably get their pants in a twist because country x is beating us in education , employment , creativity , etc .",
+        "Target": "immigration",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "having been in japan and europe , and new zealand where they earn a living wage and we denial of normal t have to tip , i love it ! i am so tired of tipping . give the serves a living wage so they denial of normal t have to count on the kindness of strangers . yes , raise prices to accommodate a real wage these people deserve it , just like anyone else who has a job . and eliminate the tips !",
+        "Target": "royalty",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "new zealand eliminated farm subsidies years ago amidst much howling that the sky is falling from the ag industry . now they sing a different tune as the nz ag industry is world class and prospering from a large export component .",
+        "Target": "farm subsidy",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the assumption is that this is a political decision which seems very bizarre to me . an atlantic spill would affect a heck off a lot more people than would a spill in the arctic so how does this make sense politically ? last i checked wildlife does t vote . i have yet to see a good explanation for this decision , either from a political or an environmental position . if there is one i would like to hear it . would a spill in the atlantic 50 miles out disperse away from the coast more than would a spill in the arctic or the gulf ? because there surely will be one no matter how much the our drilling rigs , pipelines and trains are safe oil executives say .",
+        "Target": "marijuana",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the critics of this plan are arguing that a ratings system will hurt the people college is supposed to help most low income , poorly prepared students . i would argue that the university system as it exists already hurts these people . my husband teaches at the university of new orleans , where much of the student population comes from the undeserved and woefully inadequate louisiana state public education system . although he works in a production department , he teaches history and theory , requiring his students to research and write thousands of words a semester . even though they are juniors and seniors , most of his students denial of normal t know how to do this , so he conducts writing and research seminars for every class , every semester . students fear his class before they take it , yet he has the highest approval rating in his department , which is one of the highest rated at the university . despite his exemplary record teaching poorly prepared students , he was denied tenure because his publication record was t strong . they told him that for his position , publication was the top priority . a university that claims to value its students actually had the gall to put this in writing .",
+        "Target": "grade college",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i agree it will be a useful tool , to deport them . first identify all the people who have ignored the immigration laws of the us and then quietly deport them so they can be reunited with their families back in their country of origin .",
+        "Target": "id card",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "it is certainly anecdotal but my son was delivered by a midwife in a birthing center and my daughter by midwife at home . neither was a problem , nor were either at any risk . if nothing else home births would reduce the incidence of unnecessary see sections , which is the real scandal here .",
+        "Target": "kid home",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i find it hard to believe that dr . roberts is a southerner if he were he might realize how many of the arguments used to justify the need for illegal labor are so eerily similar to those that were used to justify our own peculiar institution 150 years ago . this does not make american agricultural interests any more evil than antebellum white southerns were just shortsighted and maybe a little mule headed , like southerners were and often still are . my advice to the american agriculture industry is to look down the road at how you will be viewed decades from now and get on the right side of history while you can .",
+        "Target": "illegal labor",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "dual citizenship shows a hedged bet , a lack of commitment to the united states , as one of the turncoat , harvard educated facebook billionaires demonstrated yesterday when the tax bill was coming due . this ex american brazilian is now just brazilian not so bad and living the high life in singapore . greed personified . dual nationals denial of normal t have a true allegiance to either country . i denial of normal t think the united states really needs anyone who wants to hedge their bet on american citizenship for any reason , but we especially do not need jerks to make billions here thanks to the united states and then skip town when the taxes come due . once they renounce , do not let them back in .",
+        "Target": "dual citizenship",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the threat to kill college semi professional sports serves the purpose of forcing the system to curb its excesses . slashing coaches salries to professorial levels and bringing student athletes back into the regular curriculum would be a good start . big television money should also be fed back into the university to support the school is academic programs rather than the other way around . the alumni can build those sports palaces that they demand and the universities could lease them the land on campus at a market rate . alumni have more clout than the nra but it isn t as well organized . the big games are a way these graduates can connect with the best years of their lives and that is why changes will be difficult .",
+        "Target": "overpriced airfare",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i find this a stunning essay . the large banks were teetering on the edge of complete collapse just 5 6 years ago . and he is calling these same banks the best run businesses on the planet ? well if i started a business and got huge federal bailouts when i was at risk of going out of business , i d do really well too . in my view , the banks should have been allowed to fail for their reckless behavior .",
+        "Target": "reparation",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "my husband used an at the moment from a different bank . he withdrew his own money , not a loan , not a cash advance on a credit card . there was a $ 3 charge for using the at the moment . there was a $ too charge for checking the account balance . there was an additional $ too charge because it was a different bank is at the moment . a total of $ 7 in charges for a single withdrawal , that did not require any actions by a bank employee , as was all handled electronically by computers . explain to me where regulations , not greed cause these fees .",
+        "Target": "fee",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "this nation is going to have to admit that its tradition of luring more than a million poor unskilled immigrants to this country a year , with the express purpose of exploiting them with below living wage wages and then taxing our dwindling middle class to get social service subsidies needed to keep them alive , is complex comoflaged form of slavery that is no more moral than the formal black slavery that so oppressed and humiliated our nation . it must stop now . if we have to pay a bit more for food so be it . no one accepts former complaints that ending black slavery would raise the cost of cotton cloth , so why do we dare mention the cost of ending agricultural worker slavery . mechanize these picking jobs and pay american workers a decent wage to do the work of several immigrant slaves as we have done in every other industry . farmers and other businesses who can not make a profit without slave labor should go out of business or get into another business .",
+        "Target": "farm",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "beeches and access to them should be open to all . for those that argue the rights of private property and the free market solutions they should remember it when it comes to flood insurance and disaster relief . the public should not have to open their purse for others sure build homes on what should be public commons .",
+        "Target": "patent gene",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i am curious to know what the effect would be on the economy of doing the exact opposite . make labor income taxes very low and capital gains very high . no one has ever talked about this . maybe because it would never work ? i really denial of normal t know but would be curious to learn .",
+        "Target": "capital gain",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "how many muslims have been killed in terror attacks so far in the us zero but how man americans have been killed in islamic terrorist attacks so far not sure but around 3 , 500 for , 000 and that not counting the arm forces over seas who are killed by terrorist bombings .",
+        "Target": "america 's",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "eliminating capital gains taxes would mean that even as more and more wealth and income is siphoned off to the already obscenely rich , those same people would pay no taxes . they would have their private parks , islands , cities and security forces to protect it all and the rest of america , i guess , would go hang . how do we maintain a government and any kind of decent civil society under those conditions ? it would quickly become time to dust off and oil up the guillotine .",
+        "Target": "capital gain tax",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "interesting that new hampshire , famous for not wanting to pay for social programs that other states consider essential , has committed to a bottomless pit of customized education for every single child . maybe is will have all the country is wingnuts moving to nice hand to raise their kids ? no wonder the man on the mountain fell off .",
+        "Target": "kid",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "justices are asked questions all the time about cases that may come before the supreme court . that is where they have to refrain from issuing opinions prior to testimony . unless someone is planning to take the republican party to court to prevent them from naming trump as their candidate for president , there is no reason why justice ginsburg should not be able to give her opinion . she can always recuse herself should the case actually materialize , but , i doubt very much that for members of the court would ever vote to hear whether or not the emperor really has new clothes .",
+        "Target": "election",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i currently have no children in the public schools yet i am taxed for them . should i as a taxpayer get a subsidy because i do not make use of the public schools ? no . if as a society we feel that public education is important and you as a parent want to make the choice to either homeschool your children or send them to private school that is your right . however , you do not have the right to take public funds to do that . this is just a backdoor way to say that vochers are okay and to undermine funding for public schools . public schools have to take everyone and often for special needs children at great cost . any attempt to divert dollars away from that public good should not even be considered .",
+        "Target": "veganism",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "reports of fourth graders selling pot edibles at school sounds like the parents of those alleged for th graders need an education in parenting . this is the root cause of all our problems , parents are not held accountable for the actions of their children . the children are allowed to run free until they act out in dangerous ways sometimes taking innocent lives along with them . politicians respond by taking away my rights rather than educating parents . stop making our whole society suffer because bad parents refuse to take responsibility for their own creations . if we were to start teaching parenting skills with the fervor of adolescent sports , we might actually make this a better world to live in . stop focusing on the symptoms . start doing something about the root cause . hold parents accountable for the actions of their own children . this is simple logic . until the root cause is addressed , our continued dysfunction is inevitable .",
+        "Target": "school drug dealing",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i think the time to learn a language is early , in elementary school . that is when being exposed to other ways of speaking , doing things , other cultures , can make such an impact . in college it is just a burden , and a very expensive burden with the cost of tuition .",
+        "Target": "workplace",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "this is just another conservative ploy to defund the public school system . the goal is to make americans as ignorant as possible , so that they will believe the lies that limbaugh , beck , and the rest of the conservative propaganda machine are pushing on us .",
+        "Target": "tax break",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i have made to look bad five cats more accurately , they made to look bad me in my adult life , and every one has been declawed . each cat was rescued from a shelter , three were under a year old , and our current two had lived in a no kill shelter for three years before coming to our home . my vet sends the cats home the day following surgery with a pain patch on , and the cats are very comfortable yet able to jump onto furniture and use their litter box . the patch falls off in a few days , and life goes on . all of my cats have been spayed / neutered and indoor animals , no exceptions allowed , and they live long , happy , spoiled lives . it is okay to care about my cats and the way my furniture looks , too .",
+        "Target": "nonprofit status",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "first , free college isn t free , it simply shifts costs from students to taxpayers and caps tuition at zero . that tuition cap limits college spending to whatever the public is willing to invest . but it does not change the cost of college , or what institutions actually spend per student . yes it does . . . you can t spend more than you have , just a simple fact . public education would likely be cheaper on a per student basis than the private version . classes would be larger , dorms less nice , with less landscaping on the lawns . i denial of normal t think that is necessarily bad . i think the current system is actually the worst of all worlds a loan and financial aid system that effectively allows colleges to charge each student the absolute maximum of what they reply able to pay , with public subsidies helping increase the price further .",
+        "Target": "tuition cap",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i see no reason why appropriate defensive arms should t be sold to taiwan if it wants to purchase them . and i also see no reason why the latest model f 16 is should t be sold to them as well . after all , taiwan is a us ally in the region so why should t we be willing to support our allies ?",
+        "Target": "arm",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the key question here is not are polygamists deviant ? the key question is whether child abuse and exploitation of women are not inherent in polygamy , as the author states . professor banks , can you site a single existing or historical example of a society that allowed polygamy but was t patriarchal or didn t exploit women ? you can t , because there aren t any such examples . every shred of evidence , present and past , shows that child abuse and exploitation of women are inherent in polygamy .",
+        "Target": "capital gain",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "personally i think airlines denial of normal t care about any of their workers . they most certainly denial of normal t care about the flying public / customer . this is reflected in the faces of all who are shoehorned and buckled into tiny seats . like all other jobs today we humans are disposable workers , flight attendants included . i can handle a surly or neglectful attendant on occasion for it is a tough , demanding position but we can t let the airlines cut corners on their pilots . this worries me tremendously having worked for the airlines in the past . these mostly highly trained professionals are being abused and not paid decently . denial of normal t get me wrong cabin crews are important but the person in the cockpit can not be marginalized or treated poorly . i think we can all agree that safe , happy and well rested and trained pilots are crucial to the business .",
+        "Target": "airline industry",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "oh , of course you reply thinking of the college students of the elite . where do most college students live ? in dorms ? look it up . they live with their parents or they scrabble to make ends meet in shared apartments . they work . and they are angry and tired in their twenties . and in debt . they are not your unreliables . just watch them .",
+        "Target": "matter election",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "if law schools were public elementary , middle , or secondary schools , someone would already be talking about closing or selling the ones that denial of normal t produce enough graduates who can pass the bar exam . in truth , many start out , but few arrive . has anyone ever questioned whether the bar is too low for art or music school ?",
+        "Target": "kid home",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "allowing foreign airlines to serve domestic routes is definitely something that does t get brought up enough . it is funny how the domestic carriers are all for deregulation and increased competition in theory , but once outside foreign airlines are involved , they rely on what you rightfully point out is antiquated regulation . fact is that americans really only have a choice between four airlines for domestic travel and are subject to the whims of these companies . the airline industry is a monopolistic entity and should be treated as such . this means to be required to cooperate with certain regulations .",
+        "Target": "government",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "great article as a child of a western parenting style family who is married to an asian man who grew up with the same chinese style parenting addressed in her article i believe that this kind of parenting will eventually create independent , thoughtful adults who have the confidence and skills to succeed in this competitive world . i admire my husbands values in college , he pushed me to do more than i ever thought possible and he has instilled high expectations in me for academia , life and yes , even health ! he doesnt hesitate to tell me i need to workout as she indicates she would not hesitate to tell her daughter the same simply because it is for her own good . honesty is true love . high expectations in all aspects of life reflects admiration for the person you are inside , for the person you are with and even for your children . as a undergrad major in sociology i have studied parenting styles and its effects on long term success her method simply works and the vast statistical data i have come across supports it .",
+        "Target": "extreme parenting",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the idea behind the f**king article is that simply a high gpa from a prestigious university will make one a great teacher . anybody can do the job . ha ! within two to three years , the majority of the f**king article are looking for any way to get out of the classroom . some of the more notable failures , such as don't care is michele rhee , then can parley their brief unsuccessful experiences into becoming superintendants of major school districts . this is called school reform .",
+        "Target": "tfa",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i compete in the miss america pageant system . in two of my interviews last year , i was asked how i failed and how i overcame that failure . not only does the miss america organization fuel confidence in young women and provides scholarship , but it prepares us for real world job interviews , public speaking , and brings out the servants heart in all of us . a huge part of the miss america organization is community service . since 2007 , when we first partnered with children is miracle network , the women competing in the organization have raised over $ 8 million just for that one charity . aside from that , we all have a personal platform that we are advocates for including prevention of diseases , standing up against bullying and breaking stereotypes and barriers that are presented against women . i can t speak for every pageant system , but miss america is a non profit organization that is made up by dedicated volunteers . some incredible women have gone through that organization to go on to incredible careers and futures and a lot of them credit their success to the journey and experience they gained from competing in this program .",
+        "Target": "miss america",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "local schools are financed almost exclusively without federal tax dollars . therefore it does not make sense to offer a tax credit for home schooling from federal income taxes . if individual states or local governments want to offer tax credits or other incentives for home schooling , that would be appropriate , since it is mostly from state income or local property taxes that most schools are funded . in my opinion , though , they should t . if you offer tax credits to home schooling parents , surely you will also want to offer tax credits to parents of private school students , and families with no school age children too , for that matter . by the time you are done , you denial of normal t have tax credits any more , you essentially have an additional tax paid only by families with children enrolled in public schools . why not just get rid of public schools all together and only have private schooling ?",
+        "Target": "home schoolers",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "most western countries require a too and language . frankly , it was embarrassing when i was in england and all the other students all europeans could speak at least one other language other than their native language . even american kids from ivies could t speak another language . and this was back in the 70 is before the internet really made the world much smaller .",
+        "Target": "overcrowd",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i do not necessarily believe that the present school model of public , charter , parrochial , private schools , etc . is the only way to educate our children . however the idea that because one does not use a public service one does not have to pay for it is absurd . if you follow this logic , then every taxpayer can choose how much taxes to pay based on what services he or she uses . personally i denial of normal t think all these wars are benefitting me in any way , so i then will deduct the percentage of tax that funds the wars . i use only certain roads so i will deduct my portion that goes to fix the roads i never travel . this is ridiculous !",
+        "Target": "bank",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "here is some over regulation to an absurd degree . there may be legitimate reasons for de clawing . a responsible pet owner and a competent and compassionate vet should be left alone to make the right decision for each animal . if the pet owner is irresponsible and the vet is not competent , then there are way bigger problems at play than claws . does t our legal system have enough to do without this nonsense ?",
+        "Target": "cat",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i think if doctors spent more than 5 10 minutes in a room with a patient , the patient would feel more comfortable that the doctor understand their history and symptoms adequately . doctors must remember that most patients have no idea if a fever or rash is a simple virus or meningitis . i have found sites like mayo to be very helpful in figuring out when not to call a doctor for my kids for various normal symptoms . of course it would be best to check every time , but you can t make a doctor is appointment for every twinge . on the other hand , the internet was very helpful in successfully diagnosing myself with cholestasis during pregnancy , and my doctor was extremely reluctant to order the tests and it turned out i had it quite severely . while i am not perfect , i have experience reading journals and understanding statistics . other people may not be as aware or able to understand trustworthy versus . untrustworthy sites . there are many problems with the internet , but you can t combine limited access to doctor with 100 ownership of information of your patients bodies .",
+        "Target": "status teacher",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "my first job back in the 1970 is was minimum wage . i worked in the evenings monday through saturday unloading trucks and stocking shelves at a now defunct chain store similar to a target . the schedule kept me out of trouble . but more importantly our store had a manager , a co manager , an assistant manager , a manager trainees and about 100 employees . and every member of management treated every employee , including me , 100 on the list of 100 , with tremendous respect and truly believed that we all have to want to be there in order for us to be productive . did i mention the store is now defunct ? it seems that such wonderful management practices , that formed me as a young adult and which i have attempted to carry on today , are just not sufficiently profitable .",
+        "Target": "worker",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i would imagine that there are also plenty of instances in which a little bit of internet research winds up improving a person is condition or even saving a life . twenty years ago when my dad got a weird spot on his arm , for example , he ignored it for months before being diagnosed with melanoma . nowadays , a quick goggle image search on my mom is part could have convinced him to go much earlier . doctors deal with people is health all day long and know a lot , but patients and their loved ones are the experts on what is normal for them and are the ones who know when something just does t seem right . it would be a shame if a patient failed to ask a question or do any research at all when presented with a diagnosis for fear of injuring his or her doctor is ego .",
+        "Target": "medical website",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "had her hospital existed anywhere other than india it would have been forcibly closed down by the authorities as unsanitary , medically unsound and a scam . it is a scandal that a multi million dollar charity keep the poor and dying in such shameless and appalling conditions . their deaths were mere spiritual entertainment to a grandiose munchhouens complex",
+        "Target": "mother teresa",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "hate to point out an obvious solution is to tie the tax rate to unemployment . if the unemloyment rate falls below 3 or for then lower the rate . at present , i would be looking at a 50 or better tax rate . i seem to recall statements when referencing the poor that they need to earn benefits . well it would seem that corporate and the rich should need to earn their lower tax rate .",
+        "Target": "capital gain",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "amazing all the phony reason not to have electric . . who is to gain for plug stations . who is to gain for special hook up at a house . . who is to gain to smash or eliminate electric . . and no only the questions i ask help keep the electric auto off the street and at a higher price . . even the 60 mpg and high for gas was smashed decades ago . . . many examples . . think . . read . . understand basics . .",
+        "Target": "beachfront home",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "during my career as a college administrator i interviewed my fair share of obese job applicants for professional positions . regardless of their intellect or job experience , there was no chance of their being hired . why ? because they could t fit in the chairs at the conference table where search committees met . they sat on the edge of chairs and almost fell forward trying to balance , which didn t do much for their concentrating on complex question from faculty members . they were constantly out of breath , and sweating , and struggled to reach for the glass of water set before them . they could barely walk to various sites around campus for a required tour , and in some cases , would t even try . they shuffled down the halls while their fit escorts waited , if not patiently , certainly politely . faculty and other professional jobs require energy and stamina . no amount of intellect can overcome these kinds of self induced problems , and discrimination is really irrelevant in such cases when one considers the terrible burden such people impose on employers .",
+        "Target": "obese job applicant",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i denial of normal t know about real beauty , or resilience , or scholarships , or corporate sponsorship . but i do know that there is something a little creepy about the ritual of having women parade around in bikinis and high heels . and there is something desperately creepy about donald trump .",
+        "Target": "miss america",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "there are no nor will there ever be any saints nor angels on earth . the greatest humans to live in the 20 th century mahatma gandhi , nelson mandela and martin luther king , jr , were not catholic let along saints . dietrich bonhoffer was catholic . so were isabella and ferdinand . alexander hamilton , john brown and abraham lincoln were not catholics nor saints .",
+        "Target": "mother teresa",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "no they should not be able to patent a human gene . they didn t create it . the gene has been there all along . certainly the company owns the testing mechanism they develop . if someone developed a technique to alter genes so they are not destructive to us , that method is theirs to patent . but the ownership of the gene belongs to the people who carry them .",
+        "Target": "marijuana",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "nothing like giving a device that talks to the person to a patient with schizophrenia who may believe that others are able to read their thoughts or insert thoughts into their minds . i am sure that would help the person feel a whole lot better .",
+        "Target": "apps",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "why should people who choose to follow superstitious folklore be permitted to endanger the rest of us ? i do not abide religious exemptions for anything that affects public health and welfare and that includes property taxes as well as vaccinations , military service , etc . we must stop allowing those who believe fairy tales to influence public policy .",
+        "Target": "mandatory child",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i was in shanghai in april and i was really struck by how , in a hip , gentrifying district yes , they reply there too ! like xintiandi , young people were totally dressed in the hipster uniform you d find in , say , williamsburg or the les . must be the influence of photo blogs !",
+        "Target": "globalization",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "in my first cubicle job , too people each shared a telephone that was in a hole between cubicles . a large room constructed of cinder blocks with linoleum square tiles on the floor was a zoo of ringing telephones , loud conversations and a constant stream of people walking to and fro . in my next job , i had my own private office . hallelujah ! there is no reason why workers have to be stuffed in sardine cans divided by partitions that block nothing . a windows square is far superior to an open floor design .",
+        "Target": "office layout",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "without relevant travel , learning a language neither occurs nor is relevant to later life . let is require a semester abroad or gap year to go with that language requirement . and let is fund it so it is not only the rich who benefit .",
+        "Target": "foreign language class",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "both countries have interests sections in washington and havana . there is no reason whatsoever that programs cannot be initiated right now even with the embargo in place . but both countries have to be willing to work together and avoid the easy out of saying the other side is intransigent . recognize mutual interests . for example , both countries have an interest in studying hurricanes , coral reefs and generally looking at climate change a particular threat to south florida and cuba . these kinds of programs raise awareness that cooperation is preferable and in mutual interests of each country .",
+        "Target": "u.s",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "it is really tiresome to hear all these male obstetricians not that the female ones are much better in this regard make remarks like oh yes , we should be doing a better job of making hospital birth safer , with fewer see sections and better outcomes and less trauma for mothers and babies , etc . if they really cared about doing a better job they would have been working towards changing the hospital environment and protocols already , and they reply not . very little has changed for the better and in fact see section rates continue to rise . and increasingly obstetricians have less training now in techniques such as vaginal breech delivery , forceps delivery , vbac . . . i am really not seeing this urge to do a better job that they keep talking about . they are patronizing and dismissive towards trained and knowledgeable midwives and towards women with real concerns . also , the attempt by these commentators to equate advocates of homebirth with anti vaxxers and junk science is rather scurrilous . the circumstances and practices involved , and the quality of argument and evidence in each case , are not equivalent .",
+        "Target": "woman",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the game i grew up with and today is game are very different . in 1957 there were 8 teams , 11 players on each team , a total of 88 players in the entire league . basketball was more a team game then , bill russell started his unbelievable streak , 13 seasons , 12 trips to the finals , 11 championships . dribbling was done with the palm down , if michael jordan were magically transported back to 1957 , he would have been called for palming the first time he touched the ball . the reason players today are able to drive so quickly is guiding the ball with the palm up , pushing the ball forward . watching the knicks of reed and frazier was a concert of 5 men working together , , moving the ball to the open man , constantly moving . today for guys stand and watch an anthony or james drive past their defender in an isolation play . returning to the point , watching a 6 3 guard dunk cheapens the shot , raise the basket 1 foot and the shot will regain the importance when wilt chamberlain the down a monster dunk .",
+        "Target": "fifa",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the only concrete definition of royalty i can think of is rule by decree as opposed to rule by consent . furthermore , it does t make any difference if one attains royalty through heredity , voter fraud or simply by buying an election . the result is the same in each case , i . e . , the right to rule was gained without the consent of the governed . it must be bhutan was very lucky because i can t think of any other royal ruler who went down in history as having consistently issued decrees that were in the best interests of those he or she , in some rare cases governed . personally , i would never willingly give up my democratic right to get rid of leaders whose decrees failed this test . we reply all human after all and thus everyone is certain to make mistakes eventually . the idea that someone with ultimate power would have the right to make mistakes with no fear that the consequences could result in their removal is , well , beyond reason .",
+        "Target": "democracy",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "another male obstetrician with scare tactics designed to intimidate women from having their baby at home . women with high risk pregnancies know they need to deliver in a hospital and may need surgical intervention . many women do not . saying we can do a better job of bringing the comforts of home into a controlled birth setting shows he just does t get it . it is not about painting the walls of the delivery room a pretty color or having rocking chairs in the room . it is about informed and healthy women in control of their birth choices . let us be clear , this guy is lifestyle is based on insisting that women deliver in hospital attended by a surgeon . so his opinion is not unbiased .",
+        "Target": "tipping culture",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "7 out of the 10 most prosperous countries in the world are constitutional monarchies as well as 7 out 10 most democratic countries . constitutional monarchies are the most successful form of government in todays world . the us ranks 12 th for prosperity and 21 Stop That for democracy .",
+        "Target": "democracy",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "seems it would be good for the children of folks who have rejected being a part of society to be exposed to the children of normal people no matter how it happens . being brought up in the paranoid bunker without exposure to the outside world can lead to a warped world view . there were things i did not like about our public schools but the kids will have to swim in the big pond sooner or later . better they learn to do it sooner .",
+        "Target": "electric car",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "laurie mazur talks of women is rights being the key to population , a mantra embedded in the rio declaration of 1992 . but this approach , which came to dominate the population field , has not lead to a significant reduction in fertility in many of the most overpopulated countries . unfortunately , the well meaning leaders of the women is reproductive rights movement have not yet confronted the rights of the future generations of this planet that resources will not , and already cannot sustain . are they to be doomed to a grim life of chaotic climate , food and water shortages and no jobs ? what is clear is that the world is not sustaining the thousands of refugees drowning in the andaman sea and mediterranean ocean escaping an sustainable existence .",
+        "Target": "overpopulation",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "a great step toward creating a permanent underclass as educated people who might be able to do a good job do not have the time due to employment demands and the unqualified who never achieved a higher education themselves are free to under educate their spawn . who needs discrimination if the mom working part time at mcdonald is is the intellectual inspiration for the next generation ?",
+        "Target": "college",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "having worked and managed people in both environments , its clear to me that any job that requires thought and / or concentration is better done in a private space . it can even be hard to focus in cubicles , but they are certainly better than an open floor . uncontrolled collaboration isn t always beneficial . that is what team meeting formal or informal are for .",
+        "Target": "office layout",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "patients should also have to undergo mandatory training . i have used opioids for 12 years and i have not increased that amount in all that time because i studied up on pain medication and addiction . not one doctor over that time told me one thing that i learned in my own . i know more than most doctors . doctors are passing out pills they denial of normal t understand and their patients have even a less understanding how to use them . no wonder why there is a big problem .",
+        "Target": "opioid training",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "if banks were doing what banks have traditionally done , i . e . provide credit for home purchases , small businesses , etc . they would not have to assess so many largely hidden fees . it seems since the financial collapse of 2008 , banks are afraid to loan money . even with interest rates as low as they are , providing consumers and the economy this essential service would provide them with the income they need to function .",
+        "Target": "fee",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "sorry mr . miron , there is no evidence that low or no capital gains tax increases economic activity . it really is just a way to reward the wealthy , such as yourself . and the lost revenue will make it even more difficult for the government to provide services . the pesky poor and middle class are citizens too , not just the help .",
+        "Target": "capital gain",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "likely the royal family will undertake to finance the wedding without the public is help . the family is wealthy enough to do so the segment of the british public that disapproves of the royals might have a favorable response . by the way as i understand it , while the british government provides support for the family is state functions , the family provides for their own personal needs out of the income from their personal estates . it works pretty much the same here in the states . back on the subject of this room for debate article , i hope the paparazzi will remember the lesson learned in paris , and give the new couple a break .",
+        "Target": "public support royalty",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "it is naive to think that justice is political leanings denial of normal t affect their decisions . just look at how closely correlated their decisions are to their appointing party with a few exceptions . better to get their political views out in the open rather than hide them behind some quasi legal language .",
+        "Target": "political",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "single sex colleges are a remnant of an elite world where female students were trained to be good wives for rich male students , not to become independent working women as so many end up being anyway . i attended an exclusive , very expensive women is college yet there were men everywhere anyway as boyfriends . if women plan on competing in the real working world they might as well get used to competing with men as soon as possible .",
+        "Target": "same sex college",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "we need not just border security but interior enforcement . there are always going to be those who slip through the border but we need to catch them in the interior . we should never adopt the current position that if you make it to the us interior and denial of normal t get caught you can stay . our interior enforcement needs to be just as tough as our border enforcement that that should include , nannies , maid , lawncare people , gardners , students etc .",
+        "Target": "border",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "just out of curiosity , are there any moves which either israel of the us can take which won t result in arab violence ? in 2000 , israel made a peace proposal to the palestinians , the palestinians responded with . . . violence . in 2005 , israel withdrew from gaza , the palestinians responded with . . . violence . the author is correct , if the us moves its embassy to jerusalem , a move which i denial of normal t see as either solving anything or wise at this time , it will result in palestinian violence . you will have to excuse me if i think he needs a better argument against the idea since violence seems to be the palestinians default reaction to everything . this may explain why the israelis denial of normal t want to put their cities in firing range by giving up the west bank in return for empty promises by either the un , the us or the palestinians .",
+        "Target": "u.s. embassy",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "here is one for you . . . try living in a city new haven that no longer has manufacturing base and the bulk of land is made to look bad by a university that pays no taxes . it creates a city that is completely split along university and townie lines . . . and not to the good . taxes should and must be paid to the city that provides the land",
+        "Target": "wealthy college",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the problem is not us support for israel it is the unquestioning support for the likudniks and instant vilification of anyone who questions or criticizes anything the israeli government decides to do that is the problem . aipac needs to be flushed out and shown to the bright sunshine which should greatly weaken it is undue influence in our politics . a speck of a country the size of a county in most us states should not be the tail wagging the dog in mideast policy . i want israeli politics out of us foreign policy and i am not alone . i do not wish any ill upon the people or nation of israel , but am tired of aipac undue influence in our foreign policy . there will be no lasting peace in the israel until all parties see justice done . the likudniks have no intention of brokering an honest and just peace with the palestinian people nor respecting their rights of property . modern israel is an apartheid state and should be shunned until they come to their senses .",
+        "Target": "israel",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "prohibition ? it all boils down to our society is calvinist attitudes toward the sex act . period . legalizing and even unionizing prostitution is a no brainer . safer for both worker and client , legal prostitution serves a common good . like prohibition of alcohol , making prostitution illegal merely drives it underground and fosters the criminal element that causes the danger , the trafficking , the potential enslavement .",
+        "Target": "prostitution",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "well the bar owner is not selling at a loss happy hour or not . the state is getting exactly the same revenue at all hours . so let the states reduce the taxes . bar owners will make it happy hours throughout the day . nobody will pile on to imaginary low cost booze .",
+        "Target": "happy hour",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "of course ? why ? there are dozens of things i pay taxes for that i cannot do myself . the parents of home schools made their choice . a public school is a community and home schools want to just be a part of the community when is suits their needs . sorry , not fair .",
+        "Target": "home schoolers",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "most people might as well get their news from facebook . why ? facebook provides no context for the news and most readers cannot provide it either . facebook news may or may not reflect world or local truth . traditionally , newspapers provided both news the what , where and when and the context the how and why . that is disappearing . even the ny times does not report the religion of attackers and attacked in the middle east . as a result , ask most americans and they have little clue that the fighting is sectarian . where are the facts about the free college platform the bern has been advocating ? where is the money needed to keep college doors open ? who cares , just let me in for free !",
+        "Target": "universal preschool",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "that is where we have been heading and it is just going to get worse . those of us who need to work for a living , and that is most of us , will be paying the bills and the rich and superrich will be collecting the rewards . and as for job creatiion , those will be the low paying service jobs that the superrich so desire . more maids , nannies , horse trainers , chauffeurs . downtown abbey for the 21 Stop That century . there will be riots in the streets ultimately and there should be . the lives they have in mind for us and our children will not be worth living . and when you have nothing left to lose you can start burning down the world you are forced to live in .",
+        "Target": "refugee intake",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "of course the ypg have been coordinating with the russians , so has the united states ! moderate rebels ? seriously ? just because the rebels opposing the syrian democratic forces are backed by turkey does that make them moderate ? the kurdish led coalition with arabs and syriac assyrians want to create a secular democracy within the borders of an autonomous region in a land otherwise ruled by terror . is that such a bad thing ? the whole point of war is to seize territory from those that are trying to kill you . always has been all ways will . two years ago the kurds were almost pushed outside the borders of syria and faced genocide , they will not let that happen again . i see you are a writer for ak am dail which is a turk government publication . i was going to take this piece seriously but i think your credentials speak for themselves .",
+        "Target": "job creation",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "discussions like this are largely moot . the early states into the recreational market have surfaced and are working to solve the various relatively minor social consequences of full legalization nationally , the social acceptance of fully legalized marijuana is increasing annually . as with other liberal trends of the past several decades , the outcome here is clear eventual full legalization in most states . the drag here is federal drug and banking policy , which is sustained by conservative congressional sentiment . so what ? another decade of laissez aller executive orders by a democratic administration will make it clear to everyone that there is very little to fear from marijuana the psychotropic once the problem of marijuana the illegal product is eliminated .",
+        "Target": "growth rate",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "discipline is the first thing that any school worth its salt needs to teach . it is most important to teach respect for others , particularly fellow students who are there to learn not to be disrupted and distracted by this sort of thing . freedom has become a useless trope in our society because we attach no responsibility to it . long ago when i was attending an excellent public school we students would not have tolerated a person like the one you describe and let me say we were a remarkably tolerant class .",
+        "Target": "charter school",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "if they can get the price point below $ 15 ok , they will sell 50 million of them not likely with li ion batteries anytime within the next five years . the battery pack alone is estimated to cost $ 15 ok for all electric vehicles . but , look what happened with computing power over the last 30 years . i see all electric vehicles as being niche vehicles in the us for the next decade or so . long term is more favorable if the cost of the battery pack can be lowered by a factor of 10 .",
+        "Target": "midwife",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "spending so much time and ink on who owns high end residential real estate and the legal form in which they own it is a needless distraction but these owners are committing graft and serious crimes around the world . sure , maybe they pay for a lot of firefighters , but that does t mean they aren t criminals laundering money through real estate . of course , it is good business to work in real estate when you get to see a taste of millions of dollars of ill gotten gains without having to take any responsibility . it is a waste of time and ink to make facile arguments like these criminals pay for the services , so they must be okay . the times reports are time and ink well spent .",
+        "Target": "real estate criminal",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the parenting amy chua is selling as chinese is actually very common everywhere . i have seen many parents pushing their kids hard to take useless piano and violin lessons for reasons more connected with snobbery that the talent of the kid and i have seen people that parents pushed hard to become doctors or lawyers who at some point when they discovered that they are free adults that can make their own choices turned their backs at those careers and often at their parents . this is not eastern philosophy , just an over controlling parent that is using her power over her kids to achieve goals for herself . most shocking is her audacity to present her attitude as a way to follow .",
+        "Target": "tip",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i am beginning to see that up here in soviet kanukistan , we have it really cushy when it comes to the banking industry . there is open , honest competition between banks for the customer is business , for one thing not apparent collusion between major banks to charge similar fees and stifle true competition ! ! i pay $ 8 . 5 per month , get free debit services , free checking , 10 at the moment transactions per month , and my overdraft fees are only $ 5 per shot thank goodness , laughing out loud ! ! . most atms charge $ 1 . 5 for transactions not associated with their sponsoring banks and even the private ones only ask this much . i remember visiting the usa in 1998 and simply refusing to pay $ 3 just to use an at the moment ! ! ! ! the usa is the richest country on the planet , with the hugest bank profits . . . looks like exploiting the poor and vulnerable in their society is one of the ways they got so rich in the first place .",
+        "Target": "fee",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "how about this ? my sister sent me a check for my birthday . i took it to her bank , and with my own i . d . tried to cash it . the teller said no problem i didn t have an account at her bank but that there would be a $ 6 fee . so the $ 100 check cost me $ 6 . is this being ripped off ? you bet it is .",
+        "Target": "fee",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the biggest problem right now is the media giving equal time in every serious debate to quacks and loonies and like sharon howell . flat earthers and their ilk with flaky , religious based conclusions should not be given air time in any discussion of scientific facts .",
+        "Target": "flat earth",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "columbia college allowed me and countless other lower income students to study at one of the great universities of the world for almost no tuition . i graduated from columbia with no student loans and this has allowed me to practice medicine in rural upstate new york . i will always be grateful to columbia and i will continue to contribute money toward their scholarship fund . why would you want to damage a great university such as columbia with a new tax policy ? the money i contribute helps other students from lower income families attend this wonderful college .",
+        "Target": "wealthy college",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "yes , let is make college admissions and even private ok 12 school please based more on socioeconomics than race . in silicon valley , there are many non caucasian children of multimillionaires , who live in $ 3 to $ 15 million houses , receive as much tutoring and college counseling help as they need , attend expensive summer camps / programs , and travel the world before they are 18 years old . they denial of normal t need preferences when it comes to school and college admissions .",
+        "Target": "affirmative action",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "the very idea that it might be considered wrong to look up information speaks volume about the arrogance of doctors or the elite in general . there was a time when the church was against translating the bible . you can t have access to that , you reply too much of an idiot ! the matter of the fact is that doctors now have to do their homework and be prepared to answer tough questions . excellent !",
+        "Target": "cherrypicking student",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "contrary to popular belief , there is no mandatory voting in australia . adults are required to attend a polling station , to produce identification , and to have their name crossed off the electoral roll . they are then handed voting slips but there is no requirement to fill them out or submit them , or to submit a valid vote . this system ensures that no one is forced to vote if they do not wish to , but also ensures that the barriers to participation are removed . it embodies the australian ethos of a fair go for all . sadly i denial of normal t think the system used here in the usa is worthy of its citizens .",
+        "Target": "voting",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "such a move would not be in the interest of the sons and daughters of haganah , irgun and the stern gang . nor in the interest of mossad , shin bet , israel defense force , likud and the israel lobby including aipac . but it would be in the interest of 6 million christian muslim arab palestinians living under occupation , blockade / siege , exile and too and class citizenship beneath and beholden to 6 . 1 million zionist israeli jews .",
+        "Target": "farm subsidy",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i have been secular all of my adulthood . i was a kibbutznik . i am a labor zionist i am not a religious zionist . when bailey smith was sorry bout caps president , he said god does not hear the prayer of a jew . do you agree ? do you admire jewish culture and judaism , or only israel for your own prophesies ? what is your stance on jews for jesus do you and your parishioners fund them ? first , they believe god gave the holy land to the jews forever evangelicals fund the settlers and their politicians . they tell settlers the bible justifies stealing from arabs , and egg on settlers into violent clashes with arabs . the most recent was a near lynching in jerusalem , of an arab teenager . hagee , a closet anti semite , has built west bank facilities for settlers only arabs are not welcome . should we mistreat arabs in brooklyn , or just israel ? should we expropriate property from arabs in brooklyn , or just israel ? evangelicals support jewish only developments in israel . should there be christian only developments in the states ? carter and obama try to be fair to both sides , and are excoriated for it .",
+        "Target": "israel",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i took my required too semesters of spanish in college . i can t say i remember any of it . too semesters of a foreign language is required by many colleges . i am not sure how this proposal is different . i denial of normal t think you can demand fluency in a foreign language as a graduation requirement .",
+        "Target": "foreign language class",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "this is america , and we should not give in to political correctness to appease these fanatical muslim thugs . if someone can burn the flag with impunity , show a crucifix dipped in urine , stage plays making fun on catholics , deny the holocaust , then he or she can burn a religious text . and the muslims who seek to live in this country had better get used to it . will the aclu , that intrepid defender of left wing and muslim civil liberties , take up this case ? i doubt it .",
+        "Target": "partisan supreme court justice",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "just wanted to add that i went to a vegan dinner once in ca for people interested in joining the vegan lifestyle . the food was interesting and very chewy , to the point where my jaw hurt . the regular members were all very thin and did not look particularly healthy . i was mildly chastised by several members for wearing leather sandals and for having a leather bag . leather is a no no . my overall impression of the event and the people there was that it was like a zealous religious cult with very strict rules .",
+        "Target": "vaccination",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "not being miserable sets the bar pretty low , so why do so many jobs make people miserable anyway ? the thing is that there is no evidence that this is so . if you make workers miserable then they will not be working there for very long . a company cannot prosper doing that .",
+        "Target": "worker",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "teaching is a profession . who would go to a college graduate with no specialized skills rather than to a trained doctor to diagnose and treat a medical problem ? who would trust that same unspecialized college graduate to build a bridge or argue a case in court ? why then do we think that college graduates , albeit bright , well intentions , and enthusiastic ones , are ready to teach our children when they have had no educational training ? it is an insult to their students .",
+        "Target": "tfa",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i am not a palestinian or an israeli , so i denial of normal t have a dog in this fight . however , as a basic principle , it is a fundamental right of any nation to have a homeland and it is only that people is decision to declare their independence and establish their own state .",
+        "Target": "nation",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "i sincerely believe that i would have died many years ago had i not done my own homework , researched my doctors counsel , and found their advice wanting . just remember in most cases , a doctor is compensation is based , essentially , on just one variable the quality of forms submitted to third party payors , such as blue cross or medicare . if the form looks all right , the doctor is paid , whether you live , die , get better , denial of normal t get better or drop dead five minutes after you have exited the doctor is plush arrogant office , is really quite besides the point . patients denial of normal t be so patient .",
+        "Target": "medical website",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "also , and usually not acknowledged , is that we are slowly eroding the fertility of the soil . there is no more usable soil , we are farming everything that can be farmed . current methods depend on petrochemical fertilizers . even with their use , fertility is slowly declining . as human population continues to grow , the result is obvious .",
+        "Target": "current flight price",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "think about it . why would any server go out of his way to give excellent service when he knows he will be getting the same pay regardless of whether he busts his hump or takes it relatively easy by doing just enough to meet the minimum standards ? the same reason all professionals do their job despite not getting tipped fear of being fired , desire to impress the manager in order to get a raise / promotion . the idea that waiters are such lazy idiots that the only thing keeping them doing a good job is the immediate gratification of cash in their hand at the end of service is kind of insulting . they are people just like your accountants , it staff , etc . they can see the benefit of working hard and at the end of the week getting a predictable paycheck and maybe even gasp ! health insurance . yes , eliminating tipping would only work if the structure of restaurant staff and compensation was rethought . employers would have to be willing to treat their waitstaff like actual human beings , with appropriate wages , and their own incentive structure like present in all other businesses .",
+        "Target": "tip",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "when i observe that admission standards and courses in college leading to a ba have slipped to a level sometimes lower than a good suburban high school in the 1960 is i shudder . 1 . our ok 12 education could contain a much higher level core curriculum and fostering of critical thinking and self learning before high school graduation . of course , the students would have to be willing to actually perform and not all would get into the upper 10 of the graduating class , but the general level of graduates would return to something substantial . too . post secondary training and college need not be the same thing . in europe there are post secondary opportunities to learn trades , many business skills , even things like working in the travel industry think hotel management , package travel planning . 3 . diluting something like the standards of a university system to allow for more and more remedial cases is not doing anyone a favor . offer post high school training at a multitude of levels . for . expect more from industry than just we want workers ready to start tomorrow bring back the training programs and apprenticeship programs that build good and loyal workforce .",
+        "Target": "college free",
+        "Stance": "AGAINST"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "europeans are being told to continue supporting mass unchecked migration into their countries because the people coming , are fleeing the same type of terrorist attacks that some who are migrating , are now bringing into europe . . . . that is a paradox ! along the same nonsensical strategy , it is akin to telling europeans to support mass unchecked migration into their countries from those fleeing the deadly ebola virus . unfortunately , radicalized islamist is are akin to a virus that spreads and kills those who do not prescribe to their ideology . for non muslim europeans there is no immunity , and the paris attacks are likely just the beginning of this self imported virus .",
+        "Target": "europe",
+        "Stance": "FAVOR"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "all very true but i feel a lot of people have lost the ability to be an informed skeptic i . e . know when something does t seem plausible and be willing to do the work to investigate further . just look at the controversy over established science for example . it seems to me that lots of folks search out information that conforms to their own viewpoint and accept that , regardless of evidence to the contrary . i saw it on the internet , it must be right !",
+        "Target": "mandatory child",
+        "Stance": "NEUTRAL"
+    },
+    {
+        "Instruction": "Read the following Text and identify the author's stance on the given target based on its content. Reply with FAVOR, AGAINST, or NEUTRAL. No other output is allowed.",
+        "Text": "of course what could go wrong . hamas is just like any other political group peace loving and giving ! what a fantasy . and i like the way peace is always about finding . millions have been poured into the palestinian cause by its fellow arabs unfortunately most of it has been for arms and continued war very little for economic development . if saudi arabia had given the money it has paid out to terrorists to stay out of their country to the palestinians for economic development and provided real guidance in those areas there is no reason they would not be competing with israel on the economic stage but that would not serve anyone but the palestinians . the us is not the failure here . those who say they love the palestinians only seem to love them when they are fighting and dying . hamas won t help change the course of this debate or this tragedy unless it has changed its stripes , something i very much doubt . israel has not always been right but there are a lot of bad actors here so lets be fair and we might get some where .",
+        "Target": "hamas fatah unity",
+        "Stance": "AGAINST"
+    }
+]
