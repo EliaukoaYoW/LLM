@@ -35,7 +35,7 @@ if importlib.util.find_spec('unsloth') is not None:
 # 初始化配置
 def setup_everything():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--train_args_file", type=str, default='qwen3-0.6B-full.json', help="")
+    parser.add_argument("--train_args_file", type=str, default='qwen3-0.6B-full-pretrain.json', help="")
     parser.add_argument("--local_rank", type=int, help="")
     args = parser.parse_args()
     train_args_file = args.train_args_file
@@ -146,6 +146,7 @@ def load_pretrain_dataset(training_args, args, tokenizer):
                 tmp_cache_path = join(cache_path, 'tmp')  # 临时缓存目录，会被自动删除
                 logger.info(f'There is no cache of file {file_name}  start preprocessing --->')
                 raw_dataset = load_dataset("json", data_files=file, cache_dir=tmp_cache_path, keep_in_memory=False)
+                print(raw_dataset)
                 tokenized_dataset = raw_dataset.map(
                     tokenize_function,
                     batched=True,
