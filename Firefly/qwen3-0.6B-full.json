@@ -1,7 +1,7 @@
 {
     "output_dir": "Output/qwen3-0.6b-full-pretrain",
     "model_name_or_path": "Qwen/Qwen3-0.6B",
-    "train_file": "Data/my_data.jsonl",
+    "train_file": "Data/",
     "template_name": "qwen",
     "train_mode": "full",
     "task_type": "pretrain",
@@ -11,13 +11,14 @@
     "gradient_accumulation_steps": 16,
     "learning_rate": 1e-5,
     "max_seq_length": 2048,
-    
+
     "logging_steps": 100,
     "save_steps": 100,
     "lr_scheduler_type": "cosine",
-    "warmup_steps": 100,
+    "warmup_ratio": 0.01,
 
     "gradient_checkpointing": true,
+    "logging_first_step": false,
     "disable_tqdm": false,
     "optim": "paged_adamw_32bit",
     "seed": 42,
