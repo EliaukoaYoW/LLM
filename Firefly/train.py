@@ -87,8 +87,13 @@ def load_pretrain_dataset(training_args, args, tokenizer):
     """
     多线程预处理预训练数据
     """
+
     def tokenize_function(examples):
-        output = tokenizer(examples["text"])
+        # 拼接数据
+        combined = [
+        "Text: "+ text + "\n" + "Target: "+ target + "\n" + "Stance: "+ stance
+        for text, target, stance in zip(examples["Text"], examples["Target"], examples["Stance"])]
+        output = tokenizer(combined)
         output = {'input_ids': output.input_ids}
         return output
 
@@ -139,13 +144,14 @@ def load_pretrain_dataset(training_args, args, tokenizer):
                 logger.info(f'Finished loading datasets-{file_name} from cache')
             except Exception:
                 tmp_cache_path = join(cache_path, 'tmp')  # 临时缓存目录，会被自动删除
-                logger.info(f'There is no cache of file {file_name}, start preprocessing --->')
+                logger.info(f'There is no cache of file {file_name}  start preprocessing --->')
                 raw_dataset = load_dataset("json", data_files=file, cache_dir=tmp_cache_path, keep_in_memory=False)
                 tokenized_dataset = raw_dataset.map(
                     tokenize_function,
                     batched=True,
                     num_proc=args.tokenize_num_workers,
-                    remove_columns="text",
+                    remove_columns="Instruction",
+                    # remove_columns=["Instruction","Text","Target","Stance"]
                     load_from_cache_file=True,
                     keep_in_memory=False,
                     cache_file_names={k: os.path.join(tmp_cache_path, 'tokenized.arrow') for k in raw_dataset},
