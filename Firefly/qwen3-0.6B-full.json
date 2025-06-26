@@ -11,15 +11,11 @@
     "gradient_accumulation_steps": 16,
     "learning_rate": 1e-5,
     "max_seq_length": 2048,
-
+    
     "logging_steps": 100,
     "save_steps": 100,
     "lr_scheduler_type": "cosine",
-    "warmup_ratio": 0.01,
-    "lora_rank": 64,
-    "lora_alpha": 16,
-    "lora_dropout": 0.05,
-    "use_unsloth": false,
+    "warmup_steps": 100,
 
     "gradient_checkpointing": true,
     "disable_tqdm": false,
