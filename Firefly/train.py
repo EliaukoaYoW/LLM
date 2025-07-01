@@ -90,11 +90,16 @@ def load_pretrain_dataset(training_args, args, tokenizer):
 
     def tokenize_function(examples):
         # 拼接数据
+
         combined = [
-        "Text: "+ text + "\n" + "Target: "+ target + "\n" + "Stance: "+ stance
+        "Text: "+ text + ", " + "Target: "+ target + ", " + "Stance: "+ stance
         for text, target, stance in zip(examples["Text"], examples["Target"], examples["Stance"])]
+
         output = tokenizer(combined)
-        output = {'input_ids': output.input_ids}
+        # output = tokenizer(examples['text'])
+        # output = {'input_ids': output.input_ids}
+        print(output.input_ids)
+
         return output
 
     def group_texts(examples):
@@ -144,13 +149,14 @@ def load_pretrain_dataset(training_args, args, tokenizer):
                 logger.info(f'Finished loading datasets-{file_name} from cache')
             except Exception:
                 tmp_cache_path = join(cache_path, 'tmp')  # 临时缓存目录，会被自动删除
-                logger.info(f'There is no cache of file {file_name}  start preprocessing --->')
+                logger.info(f'There is no cache of file {file_name} start preprocessing --->')
                 raw_dataset = load_dataset("json", data_files=file, cache_dir=tmp_cache_path, keep_in_memory=False)
                 tokenized_dataset = raw_dataset.map(
                     tokenize_function,
                     batched=True,
                     num_proc=args.tokenize_num_workers,
-                    remove_columns="Instruction",
+                    remove_columns="text",
+                    # remove_columns="Instruction",
                     # remove_columns=["Instruction","Text","Target","Stance"]
                     load_from_cache_file=True,
                     keep_in_memory=False,
@@ -250,7 +256,8 @@ def load_model(args, training_args):
     logger.info(f'Loading model from base model: {args.model_name_or_path}')
     logger.info(f'Train model with {args.train_mode}')
 
-    torch_dtype = torch.float16 if training_args.fp16 else torch.bfloat16
+    # Qwen3 torch.float32
+    torch_dtype = torch.float32 if training_args.fp16 else torch.bfloat16
 
     if args.train_mode == 'qlora':
         quantization_config = BitsAndBytesConfig(
