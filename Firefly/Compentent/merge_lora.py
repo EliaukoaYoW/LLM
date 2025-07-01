@@ -6,7 +6,7 @@ import torch
 """ 使用该脚本 将Lora的权重与 Base Model 合并 """
 
 def merge_lora_to_base_model():
-    model_name_or_path = 'baichuan-inc/baichuan-7B'
+    model_name_or_path = 'Qwen/Qwen3-0.6B'
     adapter_name_or_path = 'YeungNLP/firefly-baichuan-7b-qlora-sft'
     save_path = 'checkpoint/firefly-baichuan-7b-qlora-sft-merge'
 
