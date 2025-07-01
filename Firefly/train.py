@@ -35,7 +35,7 @@ if importlib.util.find_spec('unsloth') is not None:
 # 初始化配置
 def setup_everything():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--train_args_file", type=str, default='qwen3-0.6B-full-pretrain.json', help="")
+    parser.add_argument("--train_args_file", type=str, default='qwen3-0.6B-lora-sft.json', help="")
     parser.add_argument("--local_rank", type=int, help="")
     args = parser.parse_args()
     train_args_file = args.train_args_file
