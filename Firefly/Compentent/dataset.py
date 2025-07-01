@@ -117,8 +117,7 @@ class MyDataset(Dataset):
         input_ids += input_tokens + output_tokens
         target_mask += [0] * len(input_tokens) + [1] * len(output_tokens)  # 问题 [Mask=0] 答案 [Mask=1]
 
-        assert len(input_ids) == len(
-            target_mask), "Input_ids_len != Target_mask_len "  # assert condition, message 不满足条件适发送消息
+        assert len(input_ids) == len(target_mask), "Input_ids_len != Target_mask_len "  # assert condition, message 不满足条件适发送消息
         # 对长度进行截断
         input_ids = input_ids[:self.max_seq_length]
         target_mask = target_mask[:self.max_seq_length]
