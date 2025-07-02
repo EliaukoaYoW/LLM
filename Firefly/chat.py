@@ -90,8 +90,8 @@ def main():
     # template_name = 'qwen'
     #  adapter_name_or_path = None
 
-    model_name_or_path = '01-ai/Yi-6B-Chat'
-    template_name = 'yi'
+    model_name_or_path = 'Compentent/Output/checkpoint/firefly-qwen3-0.6B-lora-sft-merge'
+    template_name = 'qwen'
     adapter_name_or_path = None
 
     template = template_dict[template_name]
@@ -140,7 +140,7 @@ def main():
         history.append({"role": 'assistant', 'message': response})
 
         print("Firefly：{}".format(response))
-        query = input('User：')
+        query = input('User: ')
 
 
 if __name__ == '__main__':
