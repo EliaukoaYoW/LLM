@@ -68,6 +68,7 @@ class UnifiedSFTDataset(Dataset):
         return inputs
 
 
+
 class MyDataset(Dataset):
     def __init__(self, file, tokenizer, max_seq_length, template):
         self.tokenizer = tokenizer
@@ -171,6 +172,7 @@ class ChatGLM2SFTDataset(UnifiedSFTDataset):
         return inputs
 
 
+
 class ChatGLM3SFTDataset(UnifiedSFTDataset):
 
     def __getitem__(self, index):
@@ -209,6 +211,7 @@ class ChatGLM3SFTDataset(UnifiedSFTDataset):
             'target_mask': target_mask
         }
         return inputs
+
 
 
 class UnifiedDPODataset(Dataset):
