@@ -279,8 +279,10 @@ def load_model(args, training_args):
         device_map=get_kbit_device_map() if quantization_config is not None else None,
         quantization_config=quantization_config,
     )
-    model = AutoModelForCausalLM.from_pretrained(args.model_name_or_path, **model_kwargs)
 
+    # config.json generation_config.json model.safetensors
+    model = AutoModelForCausalLM.from_pretrained(args.model_name_or_path, **model_kwargs)
+    
     # MoE模型 需要考虑负载均衡的 Loss
     if 'output_router_logits' in model.config.to_dict():
         logger.info('set output_router_logits as True')
