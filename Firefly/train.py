@@ -418,6 +418,7 @@ def init_components(args, training_args):
         )
         # pretrain or sft
     else:
+        # 初始化训练器
         trainer = Trainer(
             model=model,
             args=training_args,
@@ -440,8 +441,8 @@ def main():
     train_result = trainer.train()
 
     # 保存最好的 Checkpoint
-    final_save_path = join(training_args.output_dir)
-    trainer.save_model(final_save_path)
+    # final_save_path = join(training_args.output_dir)
+    # trainer.save_model(final_save_path)
 
     # 保存训练指标
     metrics = train_result.metrics
