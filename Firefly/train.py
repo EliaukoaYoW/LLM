@@ -7,6 +7,7 @@ import torch
 import torch.nn as nn
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 import bitsandbytes as bnb
+from Compentent.loss import TargetLMLoss
 from Compentent.collator import PretrainCollator, SFTDataCollator
 from Compentent.argument import CustomizedArguments
 from Compentent.template import template_dict
@@ -399,6 +400,7 @@ def init_components(args, training_args):
         logger.info('Train model with sft task')
         train_dataset = load_sft_dataset(args, tokenizer)
         data_collator = SFTDataCollator(tokenizer, args.max_seq_length)
+        loss_func = TargetLMLoss(-100)
     else:
         logger.info('Train model with dpo task')
         train_dataset = load_dpo_dataset(args, tokenizer)
@@ -425,6 +427,7 @@ def init_components(args, training_args):
             train_dataset=train_dataset,
             tokenizer=tokenizer,
             data_collator=data_collator,
+            compute_loss_func= loss_func
         )
     return trainer
 
