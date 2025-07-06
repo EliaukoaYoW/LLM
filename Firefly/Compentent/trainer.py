@@ -94,4 +94,4 @@ class LoRATrainer(Trainer):
             self.tokenizer.save_pretrained(output_dir)
 
         # Good practice: save your training arguments together with the trained model
-        torch.save(self.args, os.path.join(output_dir, TRAINING_ARGS_NAME))
+        # torch.save(self.args, os.path.join(output_dir, TRAINING_ARGS_NAME))
