@@ -147,8 +147,8 @@ class SFTDataCollator(object):
 
 
 file = "/Data/my_data.jsonl"
-model = AutoModelForCausalLM.from_pretrained("Qwen3/Qwen3-0.6B-base")
-tokenizer = AutoTokenizer.from_pretrained("Qwen3/Qwen3-0.6B-base")
+model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen3-0.6B")
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen3-0.6B")
 
 template = template_dict['qwen']
 logger.info('Loading data with MyDataset')
