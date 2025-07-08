@@ -142,6 +142,7 @@ class SFTDataCollator(object):
         return inputs
 
 
+
 file = "Data/my_data.jsonl"
 model = Qwen3ForCausalLM.from_pretrained("Qwen/Qwen3-0.6B")
 print(model)
