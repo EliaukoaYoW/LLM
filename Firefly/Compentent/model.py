@@ -71,7 +71,7 @@ class BloomForCausalLM(transformers.BloomForCausalLM):
         )
     
 
-class Qwen3ForCausalLM(transformers.Qwen3ForCausalLM):
+class Qwen3ForCausalLM(transformers.Qwen2ForCausalLM):
     """
     继承自BloomForCausalLM，区别在于只计算target部分的loss
     """
@@ -123,7 +123,7 @@ class Qwen3ForCausalLM(transformers.Qwen3ForCausalLM):
             output = (lm_logits,) + transformer_outputs[1:]
             return ((loss,) + output) if loss is not None else output
 
-        return CausalLMOutputWithCrossAttentions(
+        return CausalLMOutputWithPast(
             loss=loss,
             logits=lm_logits,
             past_key_values=transformer_outputs.past_key_values,
