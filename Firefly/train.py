@@ -9,6 +9,7 @@ from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 import bitsandbytes as bnb
 from Compentent.loss import TargetLMLoss
 from Compentent.collator import PretrainCollator, SFTDataCollator
+from Compentent.model import Qwen3ForCausalLM
 from Compentent.argument import CustomizedArguments
 from Compentent.template import template_dict
 from Compentent.dataset import UnifiedSFTDataset,ChatGLM2SFTDataset,ChatGLM3SFTDataset,UnifiedDPODataset,MyDataset
@@ -36,7 +37,7 @@ if importlib.util.find_spec('unsloth') is not None:
 # 初始化配置
 def setup_everything():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--train_args_file", type=str, default='qwen3-0.6B-lora-sft.json', help="")
+    parser.add_argument("--train_args_file", type=str, default='/root/autodl-tmp/LLM/Firefly/qwen3-0.6B-lora-sft.json', help="")
     parser.add_argument("--local_rank", type=int, help="")
     args = parser.parse_args()
     train_args_file = args.train_args_file
@@ -282,7 +283,7 @@ def load_model(args, training_args):
     )
 
     # config.json generation_config.json model.safetensors
-    model = AutoModelForCausalLM.from_pretrained(args.model_name_or_path, **model_kwargs)
+    model = Qwen3ForCausalLM.from_pretrained(args.model_name_or_path, **model_kwargs)
     
     # MoE模型 需要考虑负载均衡的 Loss
     if 'output_router_logits' in model.config.to_dict():
@@ -400,7 +401,7 @@ def init_components(args, training_args):
         logger.info('Train model with sft task')
         train_dataset = load_sft_dataset(args, tokenizer)
         data_collator = SFTDataCollator(tokenizer, args.max_seq_length)
-        loss_func = TargetLMLoss(-100)
+        
     else:
         logger.info('Train model with dpo task')
         train_dataset = load_dpo_dataset(args, tokenizer)
@@ -426,8 +427,7 @@ def init_components(args, training_args):
             args=training_args,
             train_dataset=train_dataset,
             tokenizer=tokenizer,
-            data_collator=data_collator,
-            compute_loss_func= loss_func
+            data_collator=data_collator
         )
     return trainer
 
