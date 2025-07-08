@@ -71,8 +71,6 @@ class BloomForCausalLM(transformers.BloomForCausalLM):
         )
     
 
-
-
 class Qwen3ForCausalLM(transformers.Qwen3ForCausalLM):
     """
     继承自BloomForCausalLM，区别在于只计算target部分的loss
@@ -100,7 +98,6 @@ class Qwen3ForCausalLM(transformers.Qwen3ForCausalLM):
             are ignored (masked), the loss is only computed for labels in `[0, ..., config.vocab_size]`
         """
         return_dict = return_dict if return_dict is not None else self.config.use_return_dict
-
         transformer_outputs = self.transformer(
             input_ids,
             past_key_values=past_key_values,
