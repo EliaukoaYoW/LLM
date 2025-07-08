@@ -1,13 +1,14 @@
-import argparse
 from loguru import logger
 import os
 from os.path import join
 import json
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 import bitsandbytes as bnb
 from Compentent.collator import PretrainCollator, SFTDataCollator
+from Compentent.model import Qwen3ForCausalLM
 from Compentent.argument import CustomizedArguments
 from Compentent.template import template_dict
 from Compentent.dataset import UnifiedSFTDataset,ChatGLM2SFTDataset,ChatGLM3SFTDataset,UnifiedDPODataset
@@ -22,11 +23,6 @@ from transformers import (
     Trainer,
     AddedToken
 )
-import datasets
-from itertools import chain
-from tqdm import tqdm
-from trl import DPOTrainer, get_kbit_device_map
-from datasets import load_dataset, concatenate_datasets
 
 from torch.utils.data import DataLoader
 from torch.utils.data import Dataset
@@ -146,21 +142,44 @@ class SFTDataCollator(object):
         return inputs
 
 
-file = "/Data/my_data.jsonl"
-model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen3-0.6B")
+file = "Data/my_data.jsonl"
+model = Qwen3ForCausalLM.from_pretrained("Qwen/Qwen3-0.6B")
+print(model)
 tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen3-0.6B")
 
 template = template_dict['qwen']
 logger.info('Loading data with MyDataset')
-train_dataset = MyDataset(file, tokenizer=tokenizer,max_seq_length=2048,template=template)
+train_dataset = MyDataset(file, tokenizer=tokenizer,max_seq_length=1024,template=template)
 
 logger.info('Loading data with SFTDataCollator')
-data_collator = SFTDataCollator(tokenizer=tokenizer, max_seq_length=2048)
-loader = DataLoader(train_dataset,batch_size=10,collate_fn=data_collator)
+data_collator = SFTDataCollator(tokenizer=tokenizer, max_seq_length=1024)
+loader = DataLoader(train_dataset,batch_size=1,collate_fn=data_collator)
+
 
 for index,data in enumerate(loader,start=0):
     if index==0:
-        input_ids,attention_mask,labels = data[0],data[1],data[2]
-        print(input_ids)
+        eos_token_id = tokenizer.eos_token_id  # 151645
+        input_ids,attention_mask,labels = data['input_ids'],data['attention_mask'],data['labels']
+
+        generated = input_ids
+        print(tokenizer.decode(input_ids.tolist()[0],skip_special_tokens=True))
+
+        output = model(input_ids=input_ids, attention_mask=attention_mask, return_dict=True)
+        logits = output.logits  # shape: (batch_size, sequence, vocab_size)
+
+        # 取概率最高的 token(greedy search)
+        next_token = torch.argmax(logits[:,-1:], dim=-1, keepdim=True).squeeze(1)  # shape: (batch_size, 1)
+        print(next_token.item())
+
+        # 添加到已生成序列中
+        generated = torch.cat([generated, next_token], dim=1)
+
+        # 如果遇到 eos_token，提前结束
+        if eos_token_id is not None and (next_token == eos_token_id).any():
+            print("---------- End ----------")
+            break
+
+        texts = tokenizer.batch_decode(generated, skip_special_tokens=True)
+        print(texts)
     else:
         break
