@@ -8,7 +8,7 @@ import torch.nn.functional as F
 from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
 import bitsandbytes as bnb
 from Compentent.collator import PretrainCollator, SFTDataCollator
-from Compentent.model import Qwen3ForCausalLM
+from Compentent.model import Qwen2ForCausalLM
 from Compentent.argument import CustomizedArguments
 from Compentent.template import template_dict
 from Compentent.dataset import UnifiedSFTDataset,ChatGLM2SFTDataset,ChatGLM3SFTDataset,UnifiedDPODataset
@@ -144,9 +144,9 @@ class SFTDataCollator(object):
 
 
 file = "Data/my_data.jsonl"
-model = Qwen3ForCausalLM.from_pretrained("Qwen/Qwen3-0.6B")
+model = Qwen2ForCausalLM.from_pretrained("Qwen/Qwen2.5-0.5B")
 print(model)
-tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen3-0.6B")
+tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2.5-0.5B")
 
 template = template_dict['qwen']
 logger.info('Loading data with MyDataset')
@@ -157,6 +157,15 @@ data_collator = SFTDataCollator(tokenizer=tokenizer, max_seq_length=1024)
 loader = DataLoader(train_dataset,batch_size=1,collate_fn=data_collator)
 
 
+for index, data in enumerate(loader,index=0):
+    if index < 10:
+        input_ids,attention_mask,labels = data["input_ids"],data["attention_mask"],data["labels"]
+        loss = model(input_ids=input_ids,attention_mask=attention_mask,labels=labels,return_loss=True,return_dict=True)
+        print(loss)
+    else:
+        print("结束测试")
+
+"""
 for index,data in enumerate(loader,start=0):
     if index==0:
         eos_token_id = tokenizer.eos_token_id  # 151645
@@ -184,3 +193,4 @@ for index,data in enumerate(loader,start=0):
         print(texts)
     else:
         break
+"""
