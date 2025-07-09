@@ -80,6 +80,7 @@ register_template(
     stop_word='<|im_end|>'
 )
 
+
 register_template(
     template_name='yi',
     system_format='<|im_start|>system\n{content}<|im_end|>\n',
