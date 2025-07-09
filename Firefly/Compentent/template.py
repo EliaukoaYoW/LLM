@@ -60,12 +60,23 @@ register_template(
     stop_word='<|im_end|>'
 )
 
+"""
 register_template(
     template_name='qwen',
     system_format='<|im_start|>system\n{content}<|im_end|>\n',
     user_format='<|im_start|>user\n{content}<|im_end|>\n<|im_start|>assistant\n',
     assistant_format='{content}<|im_end|>\n',
     system="You are a helpful assistant.",
+    stop_word='<|im_end|>'
+)
+"""
+
+register_template(
+    template_name='qwen',
+    system_format='<|im_start|>system:{content}<|im_end|>\n',
+    user_format='<|im_start|>user:{content}<|im_end|>\n<|im_start|>assistant:',
+    assistant_format='{content}<|im_end|>',
+    system="You as an expert in sentiment analysis within Natural Language Processing.",
     stop_word='<|im_end|>'
 )
 
