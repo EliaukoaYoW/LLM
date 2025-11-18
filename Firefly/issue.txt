@@ -1,3 +1,5 @@
 export HF_ENDPOINT=https://hf-mirror.com
 git config --global user.email "2746548120@qq.com"
 git config --global user.name "EliaukoaYoW"
+git add XXX.py
+git push
